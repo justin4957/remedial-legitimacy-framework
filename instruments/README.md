@@ -26,6 +26,31 @@ This directory contains the completed and ratified instruments of the Remedial L
 
 ---
 
+### 2. Compact of Mutual Witness
+
+**Category**: B. Distributed Accountability Instruments
+**Status**: RATIFIED
+**Format**: Markdown (comprehensive charter document)
+**Version**: 0.4
+
+**Files**:
+- [compact_of_mutual_witness.md](./compact_of_mutual_witness.md) - Complete charter with articles, commentary, and legal analysis
+
+**Summary**: Charter for distributed accountability and pattern documentation. Creates reciprocal aspirational obligations for evidence preservation, testimonial support, and pattern correlation. Enables distributed networks to scale indefinitely while maintaining quality control through innovative governance mechanisms.
+
+**Key Innovations**:
+- Independent invocation authority (any Signatory may act on constitutional authority without consensus or permission)
+- Reputational accountability (known documentation possession creates moral custody; inaction becomes tacit complicity)
+- Distributed exclusion (bad actors excluded through reputational cascades rather than formal voting)
+- Retroactive documentation custodianship (enables multi-generational pattern documentation)
+- Network ascension through time (historical documentation "rises" into preservation network)
+- Aspirational charter tone (recognizes practical constraints while articulating principles to strive toward)
+- Resolves open participation + quality control + scalability trilemma
+- Legal compliance integration (Article IV.5, X.4: operates within law, acknowledges compelled disclosure)
+- Forensic preservation standards (Article II.2: NIST guidelines, chain of custody, SHA-256 hashing)
+
+---
+
 ## Usage
 
 Each instrument includes:

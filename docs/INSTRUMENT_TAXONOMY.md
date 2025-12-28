@@ -12,7 +12,7 @@
 ## Category B: Distributed Accountability Instruments
 *Documents creating mesh networks of responsibility and authority*
 
-6. **Compact of Mutual Witness** — Reciprocal agreement to document, preserve evidence of, and testify regarding Degradation Events
+6. **Compact of Mutual Witness** [RATIFIED] — Charter for distributed accountability and pattern documentation. Creates reciprocal obligations for evidence preservation, testimonial support, and pattern correlation. Features independent invocation authority, reputational accountability, and distributed exclusion mechanisms enabling infinite scalability. See: [instruments/compact_of_mutual_witness.md](../instruments/compact_of_mutual_witness.md)
 7. **Instrument of Accountability Escrow** — Places documented misconduct "in escrow" for release upon triggering conditions
 8. **Charter of Rotating Custody** — Designates rotating roster of advocates to ensure continuity
 9. **Protocol of Cascading Designation** — Pre-authorizes sequential assumption of custodial authority if prior designees unable to act
