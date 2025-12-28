@@ -17,6 +17,16 @@ The Remedial Legitimacy Framework develops speculative legal instruments that:
 
 This is a theoretical and documentary project exploring how legal instruments might acknowledge and respond to the gap between constitutional promises and operational reality.
 
+**Current Collection**: 1 ratified instrument, 23 proposed instruments across 6 categories
+
+### Featured Instrument
+
+**[Instrument of Delegated Rights Custody and Free Association Lease](./instruments/instrument_delegated_rights_custody.md)**
+
+The foundational document of the framework. Establishes a mechanism for temporary delegation of rights-defense functions to willing third parties during periods of institutional non-performance. Key innovation: inverts traditional standing doctrine so that rights violations activate delegated authority rather than rights possession alone.
+
+[View all instruments →](./instruments/)
+
 ## Instrument Categories
 
 ### A. Gap-Bridging Instruments

@@ -3,7 +3,7 @@
 ## Category A: Gap-Bridging Instruments
 *Documents addressing the space between nominal status and operational reality*
 
-1. **Lease of Inalienable Rights** [DRAFTED] — Transfers operational custody while preserving foundational ownership
+1. **Instrument of Delegated Rights Custody and Free Association Lease** [RATIFIED] — Transfers operational custody while preserving foundational ownership. See: [instruments/instrument_delegated_rights_custody.pdf](../instruments/instrument_delegated_rights_custody.pdf) and [analysis](../instruments/instrument_delegated_rights_custody.md)
 2. **Certificate of Functional Citizenship** — Acknowledges legal citizenship while documenting diminished operational capacity
 3. **Declaration of Conditional Sovereignty** — Formally acknowledges sovereignty while documenting specific non-operational instances
 4. **Instrument of Deferred Equality** — Acknowledges nominal equal protection while inventorying discriminatory application
@@ -50,7 +50,8 @@
 
 ## Status Legend
 
-- [DRAFTED] — Full instrument text completed
+- [RATIFIED] — Finalized and added to the framework
+- [DRAFTED] — Full instrument text completed, under review
 - [PROPOSED] — Concept defined, awaiting drafting
 - [RESEARCH] — Under research and development
 - [TEMPLATE] — Template format available for customization
