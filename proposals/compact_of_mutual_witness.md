@@ -2,9 +2,9 @@
 **A Charter for Distributed Accountability and Pattern Documentation**
 
 **Category**: B. Distributed Accountability Instruments
-**Status**: DRAFT (Revised incorporating legal analysis)
+**Status**: DRAFT (Governance at Scale Revision)
 **Date**: 2025-12-28
-**Version**: 2.0
+**Version**: 0.4
 
 ---
 
@@ -162,6 +162,40 @@ No single Signatory should bear disproportionate preservation or testimonial bur
 - Strategic distribution may be employed to protect vulnerable Signatories;
 - Cost-sharing arrangements may be negotiated among benefiting parties.
 
+**3.5 Independent Invocation Authority**
+
+This Charter enables any Signatory to invoke documentation for accountability purposes on behalf of any other party—whether Signatory or non-Signatory—without requiring prior association, network consensus, or permission:
+
+*Authority Derives from Constitutional Logic*:
+- The authority to invoke this Compact derives from the preservation of inalienable rights enshrined in constitutional and legal frameworks, not from network membership or consensus;
+- Any Signatory may act to seek rectification or accountability for Degradation Events affecting any party whose rights have been violated;
+- No assumption of personal association, relationship, or coordination is required between the invoking Signatory and the affected party;
+- The invocation authority is inherent in the logic of the document itself and the universal character of constitutional rights.
+
+*Invocation for Rectification*:
+- Any Signatory may utilize preserved documentation to seek accountability, remediation, or pattern demonstration regarding institutional misconduct affecting any individual or group;
+- This includes documentation of Degradation Events where the original witness is unknown to the invoking Signatory, deceased, disappeared, intimidated into silence, or otherwise unable to act;
+- The invoking Signatory need not demonstrate personal injury or traditional standing; the violation of constitutional rights itself activates invocation authority;
+- Multiple Signatories may independently invoke documentation for the same Degradation Events without coordination.
+
+*No Consensus Required*:
+- Independent invocation requires no permission, approval, or consensus from other Signatories;
+- Network-wide coordination may enhance strategic effectiveness but is not a prerequisite for invocation;
+- Each Signatory operates autonomously in determining when and how to invoke documentation;
+- The distributed architecture ensures that institutional attempts to silence or neutralize individual Signatories cannot prevent invocation by others.
+
+*Limitations on Invocation*:
+- Invocation must serve accountability purposes consistent with this Charter (Article V.3);
+- Invocation must respect privacy and confidentiality obligations (Article V.4);
+- Invocation must be based on truthful documentation (Article V.1);
+- Invocation that would create new Degradation Events is inconsistent with this Charter.
+
+*Scalability Without Governance*:
+- This provision enables the network to scale indefinitely without requiring consensus mechanisms that become operationally impossible at scale;
+- Governance operates through distributed invocation rather than centralized decision-making;
+- Accountability flows from documented evidence and constitutional logic rather than network voting or approval processes;
+- Any Signatory can act; no Signatory can veto another's invocation.
+
 ---
 
 ## Article IV: Limitations and Protections
@@ -262,6 +296,45 @@ Signatories aspire to prevent evidence spoliation through:
 - Following established forensic practices for evidence handling;
 - Resisting institutional or third-party pressure to destroy or alter evidence;
 - Understanding that negligent or intentional spoliation undermines both individual evidentiary value and collective network credibility.
+
+**5.6 Reputational Accountability and Known Documentation**
+
+The preservation of documentation creates reputational stakes that strengthen reciprocity beyond formal enforcement:
+
+*Visibility of Documentation Possession*:
+- Once it becomes known that a party possesses documentation of Degradation Events, that knowledge itself creates reputational incentives to act consistently with this Charter;
+- The fact of possessing evidence is often itself documentable—through public statements, legal filings, disclosed discovery, journalistic reporting, or network communications;
+- Awareness that documentation exists transforms inaction from neutral non-participation into tacit complicity with the documented misconduct.
+
+*Reputational Consequences of Known Non-Action*:
+- A party known to possess documentation of institutional misconduct who fails to preserve it, make it available for accountability purposes, or provide testimonial support when safely able faces reputational costs;
+- Such failures are themselves documentable and may become part of the historical record regarding the Degradation Events in question;
+- Future parties seeking to understand who aided accountability efforts and who remained silent despite possessing relevant evidence will have access to documentation of such choices;
+- This creates a form of reputational accountability that operates independently of legal enforcement.
+
+*Tacit Complicity Through Inaction*:
+- Possession of documentation regarding serious Degradation Events creates a form of moral custody, even absent formal Signatory status;
+- Known possession coupled with refusal to act—when action could safely occur—may be characterized as tacit complicity with the documented misconduct;
+- This is particularly salient where the documentation reveals ongoing patterns affecting others, rather than isolated historical events;
+- The reputational characterization of complicity operates through community judgment and historical assessment, not legal sanction.
+
+*Network Visibility and Reciprocity*:
+- In a distributed network, reciprocity operates partially through visibility—Signatories who faithfully fulfill obligations develop reputations as reliable custodians and witnesses;
+- Those who possess documentation but consistently decline Triggering Requests (absent legitimate limitations under Article IV) develop reputations that may affect future network trust;
+- This visibility-based reciprocity supplements but does not replace aspirational moral commitments;
+- Reputation effects scale with network size—larger networks create greater visibility and stronger reciprocity incentives.
+
+*Documentation of Documentation*:
+- The network may document not only Witnessed Events but also patterns of who preserved evidence, who provided testimony, who invoked documentation for accountability, and who remained silent despite known possession;
+- This "documentation of documentation" creates a meta-level of accountability regarding the accountability process itself;
+- Future historical assessments of institutional misconduct will include assessments of who aided or hindered accountability efforts;
+- Such assessments serve as reputational incentives to fulfill Charter aspirations.
+
+*Limitations on Reputational Pressure*:
+- Reputational accountability must respect legitimate limitations under Article IV (safety, capacity, legal constraints);
+- Failures to act due to resource constraints, safety concerns, or legal prohibitions should not be characterized as complicity;
+- Good-faith attempts to fulfill obligations, even if imperfect, honor the spirit of this Charter;
+- The distinction between culpable silence and constrained inaction depends on documented circumstances.
 
 ---
 
@@ -422,16 +495,49 @@ Any Signatory may withdraw from this Compact by:
 - Completing pending Testimonial Support obligations or securing substitute support;
 - Understanding that withdrawal releases the Signatory from future aspirational obligations but does not extinguish past documentation or testimony.
 
-**8.2 Expulsion**
+**8.2 Reputational Exclusion and Documentation of Violations**
 
-A Signatory may be expelled by consensus of at least two-thirds of active Signatories if:
-- The Signatory has materially breached the truthfulness requirement (Article V.1) through knowing misrepresentation;
-- The Signatory has exploited the network in violation of Article V.3;
-- The Signatory has willfully destroyed documentation held in trust for others;
-- The Signatory poses demonstrated risk to other Signatories' safety;
-- The Signatory has repeatedly violated confidentiality obligations absent legal compulsion.
+Rather than requiring network-wide consensus for formal expulsion (operationally impossible at scale), this Charter operates through distributed reputational mechanisms:
 
-Expulsion requires clear evidence and opportunity for the accused Signatory to respond.
+*Documentation of Charter Violations*:
+- Any Signatory may document and preserve evidence that another Signatory has violated Charter principles, including:
+  - Material breach of truthfulness requirement (Article V.1) through knowing misrepresentation;
+  - Exploitation of the network in violation of Article V.3;
+  - Willful destruction of documentation held in trust for others;
+  - Demonstrated risk to other Signatories' safety;
+  - Repeated confidentiality violations absent legal compulsion;
+  - Strategic failures to preserve or produce documentation at critical moments.
+
+*Individual Decisions on Interaction*:
+- Each Signatory independently determines whether to continue interacting with, providing documentation to, or receiving Triggering Requests from a Signatory believed to have violated Charter principles;
+- No network-wide consensus or voting mechanism is required; Signatories exercise autonomous judgment based on available documentation;
+- Patterns of individual non-interaction constitute effective exclusion through distributed decision-making;
+- This approach scales indefinitely—network size does not affect individual Signatories' ability to assess and respond to violations.
+
+*Reputational Cascades*:
+- Documentation of Charter violations becomes part of the network's collective record;
+- Signatories share information about violations (consistent with Article V.4 confidentiality obligations);
+- As awareness of violations spreads, multiple Signatories independently reduce or cease interaction;
+- Reputational exclusion emerges from distributed individual choices rather than centralized expulsion process;
+- This creates accountability without requiring identification of "all active Signatories" or achievement of consensus.
+
+*No Formal Expulsion Power*:
+- No individual Signatory or group has authority to formally expel another from the network;
+- Open participation (Article VI.2) means anyone may execute the Charter;
+- Network effects operate through reputation, visibility, and distributed choice rather than gatekeeping;
+- Attempted formal expulsion would require consensus mechanisms that fail at scale.
+
+*Opportunity for Response*:
+- Signatories documenting violations of Charter principles are encouraged to provide the accused Signatory opportunity to respond before widely sharing such documentation;
+- Response documentation becomes part of the record for other Signatories to assess;
+- Contested violations are resolved through distributed judgment of individual Signatories reviewing available evidence, not through centralized adjudication;
+- This preserves due process through distributed fairness rather than formal procedures.
+
+*Strategic Failures and Infiltration*:
+- Strategic failures to preserve or produce documentation at critical moments—particularly when such failures create patterns across multiple Triggering Requests—become documentable;
+- Such documentation enables other Signatories to assess whether a party is acting in good faith or strategically undermining accountability efforts;
+- Infiltrators or bad-faith participants reveal themselves through patterns of failure that other Signatories can document and share;
+- Distributed reputation assessment is more resilient against strategic actors than centralized trust mechanisms.
 
 **8.3 Compact Dissolution**
 
@@ -578,6 +684,12 @@ The **retroactive custodianship** provision (Article VI.6) represents a signific
 
 **6. Network Ascension Through Time**: Retroactive custodianship enables documentation to enter the network long after events occurred, preserving historical patterns and enabling multi-generational accountability.
 
+**7. Independent Invocation Authority** (Article III.5): Any Signatory may invoke documentation for accountability purposes on behalf of any party—whether Signatory or non-Signatory—without requiring prior association, network consensus, or permission. Authority derives from constitutional logic and the universal character of inalienable rights, not from network membership. This enables the network to scale indefinitely without consensus mechanisms that become impossible at scale. Governance operates through distributed invocation rather than centralized decision-making.
+
+**8. Reputational Accountability** (Article V.6): Known possession of documentation creates reputational stakes that strengthen reciprocity beyond formal enforcement. Once it becomes known that a party possesses documentation of Degradation Events, inaction transforms from neutral non-participation into tacit complicity. The network may document not only Witnessed Events but also patterns of who aided or hindered accountability efforts—creating meta-level accountability. Reputation effects scale with network size, creating stronger reciprocity incentives as the network grows.
+
+**9. Distributed Exclusion** (Article VIII.2): Rather than requiring network-wide consensus for formal expulsion (operationally impossible at scale), the Charter operates through distributed reputational mechanisms. Any Signatory may document violations of Charter principles, and each Signatory independently determines whether to continue interacting with the violating party. Reputational exclusion emerges from distributed individual choices rather than centralized expulsion processes. This approach scales indefinitely and is more resilient against strategic actors than centralized trust mechanisms.
+
 ### Aspirational Character
 
 This revised version embraces an explicitly **aspirational tone**. Rather than imposing enforceable duties, it articulates principles toward which Signatories strive. This reflects several important realities:
@@ -587,6 +699,91 @@ This revised version embraces an explicitly **aspirational tone**. Rather than i
 - **Legal Complexity**: Cross-jurisdictional operation requires flexibility to accommodate varying legal frameworks.
 - **Moral Not Legal**: This is fundamentally a moral network operating through conscience rather than legal compulsion.
 - **Good Faith Effort**: The Charter values earnest attempt over perfect achievement.
+
+### Governance at Scale Through Distributed Mechanisms
+
+Version 0.4 addresses a fundamental challenge in distributed networks: **governance becomes operationally impossible at scale when it requires consensus**.
+
+**The Problem of Consensus at Scale**:
+Traditional governance mechanisms (voting, consensus-building, formal expulsion) require the ability to:
+- Identify all active participants
+- Achieve agreement among a substantial majority
+- Enforce decisions network-wide
+
+In a truly open, distributed network with indefinite growth potential, these requirements become impossible. You cannot achieve "two-thirds consensus" when you cannot even define who constitutes "all active Signatories."
+
+**Solution #1: Independent Invocation Authority** (Article III.5)
+
+Rather than requiring network consensus for action, **any Signatory may act independently**:
+
+- *Constitutional Logic as Authority*: Authority derives from the preservation of inalienable rights, not from network membership or permission
+- *No Prior Association Required*: A Signatory may invoke documentation on behalf of unknown parties whose rights were violated
+- *No Consensus Needed*: Independent invocation requires no approval from other Signatories
+- *Scales Infinitely*: Network size does not affect individual Signatories' ability to invoke documentation
+- *Distributed Governance*: Governance operates through distributed invocation rather than centralized decision-making
+
+This transforms governance from "achieving consensus among all members" to "enabling any member to act." An institutional misconduct pattern can be challenged by a single Signatory acting on constitutional authority, regardless of network size or coordination.
+
+**Solution #2: Reputational Accountability** (Article V.6)
+
+Rather than relying solely on moral obligation, **reputation creates incentive structures**:
+
+- *Known Documentation = Reputational Stakes*: Once it's known you possess documentation, inaction becomes tacit complicity
+- *Visibility Enables Reciprocity*: Signatories who fulfill obligations develop reputations as reliable; those who don't develop reputations for unreliability
+- *Documentation of Documentation*: The network documents not only events but also who aided or hindered accountability efforts
+- *Meta-Level Accountability*: Future historical assessments will include who preserved evidence and who remained silent despite known possession
+- *Scales with Network Size*: Larger networks create greater visibility and stronger reputation effects
+
+This addresses the "free rider problem" in aspirational obligations. Even absent legal enforcement, known possession of documentation creates reputational incentives to act—or face being documented as complicit through inaction.
+
+**Solution #3: Distributed Exclusion** (Article VIII.2)
+
+Rather than requiring consensus to expel bad actors, **exclusion emerges through distributed individual choices**:
+
+- *Document Violations*: Any Signatory may document Charter violations by others
+- *Individual Non-Interaction*: Each Signatory decides independently whether to continue interacting with the violating party
+- *Reputational Cascades*: As awareness spreads, multiple Signatories independently cease interaction
+- *No Formal Expulsion Power*: No individual or group can formally expel anyone
+- *Scales Infinitely*: Individual assessment and choice work regardless of network size
+- *Resilience Against Infiltration*: Strategic failures reveal patterns that others can document and assess
+
+A bad actor is not "expelled by vote" but rather becomes progressively isolated as individual Signatories independently cease interaction based on documented behavior.
+
+**Why This Solves Governance at Scale**:
+
+Traditional networks face a trilemma:
+1. **Open participation** (anyone can join)
+2. **Quality control** (bad actors can be removed)
+3. **Scalability** (works at any size)
+
+Most systems sacrifice one: Either they're closed (sacrificing #1), or they have weak quality control (sacrificing #2), or they fail at scale (sacrificing #3).
+
+This Charter achieves all three by **replacing centralized governance with distributed mechanisms**:
+- Open: Anyone can execute the Charter (Article VI.2)
+- Quality control: Bad actors face reputational exclusion through distributed choice (Article VIII.2)
+- Scalable: Independent invocation and distributed reputation work at any size (Articles III.5, V.6)
+
+**Implications for Network Architecture**:
+
+- **No "Active Signatories" Definition Needed**: The network doesn't need to track or count active participants
+- **No Voting or Consensus Processes**: Each Signatory acts autonomously based on constitutional authority and reputational assessment
+- **No Central Coordination Required**: Effectiveness emerges from distributed action and reputation, not from centralized orchestration
+- **Resilience Through Distribution**: Attempts to silence or neutralize individual Signatories cannot prevent others from invoking documentation
+- **Organic Growth**: Network can grow indefinitely without structural changes or governance reforms
+
+**Comparison to Traditional Models**:
+
+| Aspect | Traditional Governance | Distributed Charter Model |
+|--------|----------------------|--------------------------|
+| Authority source | Network consensus | Constitutional logic |
+| Action prerequisite | Approval/voting | Individual judgment |
+| Expulsion mechanism | Formal vote (e.g., 2/3) | Reputational exclusion via distributed choice |
+| Quality control | Gatekeeping | Reputation + documentation |
+| Scalability | Fails at scale (consensus impossible) | Scales infinitely (individual action) |
+| Free rider solution | Enforcement | Reputational accountability |
+| Coordination | Centralized | Distributed |
+
+This represents a fundamental architectural shift from **consensus-based governance** to **distributed constitutional authority** and **reputational accountability**.
 
 ### Relationship to Legal Frameworks
 
@@ -762,10 +959,10 @@ This provision enables several critical functions:
 2. What tools (SecureDrop, blockchain timestamping, distributed storage) enhance operation?
 3. How to balance security with accessibility for resource-limited participants?
 
-**Governance and Verification**:
-4. What mechanisms prevent infiltration by bad-faith participants or institutional agents?
-5. How to resolve disputes among Signatories about documentation or testimony?
-6. Should larger networks develop formal governance structures, or remain fully decentralized?
+**Governance and Verification** (partially addressed in v0.4):
+4. ~~What mechanisms prevent infiltration by bad-faith participants or institutional agents?~~ **ADDRESSED**: Article VIII.2 distributed exclusion through reputational assessment
+5. ~~How to resolve disputes among Signatories about documentation or testimony?~~ **ADDRESSED**: Distributed judgment by individual Signatories reviewing evidence, not centralized adjudication
+6. ~~Should larger networks develop formal governance structures, or remain fully decentralized?~~ **RESOLVED**: Fully decentralized governance through independent invocation authority (Article III.5) and reputational mechanisms (Article V.6)
 
 **Legal and Procedural**:
 7. What standardized templates would enhance Triggering Requests?
@@ -840,8 +1037,8 @@ With the incorporated legal research, ethical constraints, and aspirational char
 
 ## Revision History
 
-- 2025-12-28: Initial draft (Version 1.0)
-- 2025-12-28: Revised incorporating Perplexity API legal analysis (Version 2.0)
+- 2025-12-28: Initial draft (Version 0.1)
+- 2025-12-28: Revised incorporating Perplexity API legal analysis (Version 0.2)
   - Added Article II.2 preservation standards (chain of custody, NIST, metadata)
   - Added Article II.5 individual accountability
   - Added Article IV.5 compelled disclosure provisions
@@ -852,3 +1049,16 @@ With the incorporated legal research, ethical constraints, and aspirational char
   - Added Article X.4 relationship to legal process
   - Revised tone throughout to aspirational charter language
   - Expanded Commentary with legal citations, precedent analysis, implementation guidance
+- 2025-12-28: Added aspirational tone and retroactive custodianship (Version 0.3)
+  - Finalized aspirational charter language
+  - Completed retroactive custodianship provisions
+- 2025-12-28: Governance at scale and reputational accountability (Version 0.4)
+  - Added Article III.5 independent invocation authority - enables any Signatory to act on constitutional authority without consensus
+  - Added Article V.6 reputational accountability and known documentation - creates incentive structures through visibility and tacit complicity
+  - Revised Article VIII.2 from consensus-based expulsion to distributed reputational exclusion
+  - Added Commentary section "Governance at Scale Through Distributed Mechanisms" analyzing architectural innovations
+  - Resolves trilemma of open participation + quality control + scalability
+  - Network now scales indefinitely without consensus mechanisms
+  - Free rider problem addressed through reputational stakes of known documentation possession
+  - Infiltration addressed through distributed exclusion and pattern documentation
+  - Updated Open Questions to reflect resolutions
