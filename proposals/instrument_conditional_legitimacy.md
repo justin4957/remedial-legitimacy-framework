@@ -2,12 +2,16 @@
 
 **Category**: C. Conscience-Based Authority
 **Status**: DRAFT
-**Version**: 0.1
+**Version**: 0.2
 **Date**: 2025-12-28
 
 ---
 
 ## Preamble
+
+### The Highest Aspiration: Rights Protection as Institutional Obligation
+
+The preservation and defense of fundamental rights represents the highest aspiration of constitutional governance. Institutions—courts, legislatures, executive agencies, law enforcement—exist not merely to wield authority but to safeguard the liberties they are constituted to protect. When these institutions instead become the source of rights violations, they breach the foundational compact that legitimates their power.
 
 ### The Gap Between Authority and Legitimacy
 
@@ -17,6 +21,24 @@ When courts delay justice for years while demanding immediate compliance with th
 
 Yet individuals who recognize this gap and condition their cooperation on institutional good faith lack any framework to articulate this position. Civil disobedience expresses it through action but creates legal jeopardy. Conscientious objection addresses narrow categories. No general instrument exists for documenting that one's compliance is not unconditional consent but conditional cooperation contingent on institutional performance.
 
+### The Sovereignty Breach and Defensive Posture
+
+Under international law, states possess an inherent right to self-defense when subjected to armed attack (UN Charter, Chapter VII, Article 51). This right acknowledges that aggression against a sovereign entity creates a defensive posture—a moral and legal justification for protective response proportional to the threat.
+
+An analogous logic applies when institutions responsible for protecting constitutional rights instead become agents of their degradation. When the guardian becomes the aggressor, when the protector becomes the violator, a sovereignty breach occurs: the popular sovereignty vested in institutions to secure liberties is turned against those very liberties.
+
+This breach creates a defensive posture for rights-holders. Not a license for violence or lawlessness, but a moral and philosophical foundation for conditioning cooperation on institutional performance. Just as international law recognizes that states need not acquiesce to aggression, this Instrument recognizes that individuals need not mistake institutional rights-violations for legitimate authority.
+
+### Proportionality and Distinction
+
+Drawing from principles of proportionality and distinction in international humanitarian law, this Instrument aspires to ensure that:
+
+**Proportionality**: Any assertion of conditional legitimacy must be proportional to the severity, pattern, and persistence of documented institutional failures. Isolated or minor deficiencies do not justify broad conditionality; systematic and severe violations may warrant more substantial declarations.
+
+**Distinction**: Conditionality must distinguish between institutions and individuals, between systemic failures and isolated acts, between those responsible for violations and those who faithfully execute their duties. Blanket rejection of all authority based on specific institutional failures violates the principle of distinction.
+
+These principles transform righteous indignation into structured accountability, preventing disproportionate response while preserving the moral force of the defensive posture.
+
 ### The Documentary Function
 
 This Instrument of Conditional Legitimacy aspires to provide such a framework. It is fundamentally a **documentary instrument**: a formal record of conscience, ethical position, and conditional cooperation. It does not grant legal immunity, authorize lawbreaking, or create enforceable rights. It articulates moral and philosophical positions about the relationship between authority and legitimacy.
@@ -24,6 +46,17 @@ This Instrument of Conditional Legitimacy aspires to provide such a framework. I
 The instrument's power derives not from legal recognition but from documentation itself: creating a contemporaneous record that one's compliance is conditional, that one recognizes institutional failures, and that one's cooperation should not be mistaken for endorsement of institutional non-performance.
 
 This positions the declarant for potential future vindication if institutional failures become more widely recognized, provides basis for conscience-based arguments in any subsequent proceedings, and establishes that silence should not be construed as consent.
+
+### What This Instrument Is NOT
+
+This Instrument is **not**:
+- A declaratory judgment or petition for judicial relief under federal or state declaratory judgment acts;
+- An attempt to circumvent, replace, or substitute for judicial review processes;
+- A legal instrument creating enforceable rights, obligations, or defenses;
+- An authorization to violate law or evade legitimate institutional authority;
+- A claim of immunity from legal consequences or court jurisdiction.
+
+This is a documentary and philosophical instrument—a contemporaneous record of conscience, not a legal shield.
 
 ---
 
@@ -59,7 +92,19 @@ Genuine attempts to seek remedy through official channels, demonstrating that th
 
 **1.8 Proportionality**
 
-The principle that the degree of conditionality asserted must correspond to the severity and pattern of documented institutional failures, precluding blanket rejection based on isolated or minor deficiencies.
+The principle, derived from international humanitarian law, that the degree of conditionality asserted must correspond to the severity, pattern, and persistence of documented institutional failures. Isolated or minor deficiencies do not justify broad conditionality; systematic and severe violations may warrant more substantial declarations. Proportionality ensures defensive response does not exceed the scope of institutional aggression.
+
+**1.9 Distinction**
+
+The principle, derived from international humanitarian law, that conditionality must distinguish between institutions and individuals, between systemic failures and isolated acts, between those responsible for violations and those who faithfully execute their duties. Blanket rejection of all legal authority based on specific institutional failures violates the principle of distinction.
+
+**1.10 Sovereignty Breach**
+
+The condition that occurs when institutions constitutionally obligated to protect and secure fundamental rights instead become agents of their degradation. When the guardian becomes the aggressor, the popular sovereignty vested in institutions to safeguard liberties is turned against those very liberties, creating a defensive posture for rights-holders analogous to the right of self-defense recognized in international law (UN Charter, Chapter VII, Article 51).
+
+**1.11 Defensive Posture**
+
+The moral and philosophical foundation, created by Sovereignty Breach, that justifies conditioning cooperation on institutional performance. Not a license for violence or lawlessness, but recognition that individuals need not mistake institutional rights-violations for legitimate authority. Analogous to the inherent right of self-defense when subjected to aggression, applied in the context of institutional failures rather than armed attack.
 
 ---
 
@@ -193,16 +238,39 @@ This Instrument aspires to establish:
 - **Anticipatory Vindication**: Positioning for potential future recognition if institutional failures become more widely acknowledged;
 - **Historical Accountability**: Creating record that institutional failures were recognized and objected to contemporaneously.
 
-### 5.2 Evidentiary Relevance
+### 5.2 Evidentiary Relevance and Severe Limitations
 
-While this Instrument creates no legal immunity, the documentary record aspires to be potentially relevant in:
-- **Diminished Culpability Arguments**: Demonstrating good-faith belief in institutional illegitimacy;
-- **Selective Enforcement Defenses**: Showing disparate treatment relative to institutional actors who violate foundational principles;
-- **Jury Nullification Context**: Providing juries with documented basis for nullification considerations;
-- **Civil Disobedience Cases**: Establishing conscience-based motivation and good-faith institutional engagement;
-- **Historical Vindication**: Creating record for potential future recognition of institutional failures.
+**Speculative Evidentiary Relevance**:
 
-**Critical Limitation**: Evidentiary relevance does not constitute legal defense or immunity. Courts may reject such arguments. This Instrument acknowledges legal jeopardy while documenting ethical position.
+While this Instrument creates no legal immunity, the documentary record might be potentially relevant in certain narrow contexts. However, Declarants must understand that courts have historically been very reluctant to admit such documentary evidence and have imposed severe limitations on its use.
+
+Possible (but not guaranteed) contexts where documentation might be considered:
+- **Diminished Culpability Arguments**: Demonstrating good-faith belief in institutional illegitimacy (admitted only if relevant to recognized defense elements; courts may exclude as prejudicial or irrelevant);
+- **Selective Enforcement Defenses**: Showing disparate treatment (requires prima facie showing that similarly situated persons were not prosecuted AND discriminatory intent; very high evidentiary burden; often insulated by prosecutorial immunity);
+- **Jury Nullification Context**: Providing juries with documented basis (courts routinely prohibit defense-initiated materials encouraging jury nullification; likely to be excluded);
+- **Civil Disobedience Cases**: Establishing conscience-based motivation (may be relevant but must comply with ordinary evidence rules on relevance, authentication, hearsay);
+- **Historical Vindication**: Creating record for potential future recognition.
+
+**Critical Limitations and Warnings**:
+
+1. **Courts Generally Reject Conscience-Based Justifications**: Courts treat conscience statements as evidentiary or persuasive material about motive and belief, NOT as self-executing defenses. Unless a statutory or constitutional protection applies, such declarations are relevant to but not determinative of legal outcomes.
+
+2. **Jury Nullification Materials Routinely Excluded**: Courts prohibit defense-initiated efforts to present documents or instructions that directly encourage jury nullification, treating such materials as improper argument outside the judge's instructions.
+
+3. **Selective Enforcement Defense Faces High Barriers**: Federal courts require showing (1) similarly situated others not prosecuted AND (2) prosecution based on impermissible factor. Documentary evidence (internal memos, charging emails) may be insulated by prosecutorial immunity or work-product protections.
+
+4. **Ordinary Evidentiary Rules Apply**: Documents that are hearsay, unauthenticated, or more prejudicial than probative will be excluded even if expressing moral arguments. Courts weigh probative value against unfair prejudice when conscience-based materials are emotionally charged.
+
+5. **Potential Negative Uses**: This documentation could be used AGAINST Declarant as:
+   - Evidence of intent in criminal prosecutions;
+   - Demonstration of willfulness rather than good-faith mistake;
+   - Characterization as hostile to legal authority generally;
+   - Basis for enhanced surveillance or scrutiny;
+   - Support for denial of discretionary benefits.
+
+6. **No Guarantee of Any Legal Effect**: Evidentiary relevance is entirely speculative. Courts may exclude this documentation entirely. This Instrument acknowledges legal jeopardy while documenting ethical position.
+
+The Declarant must weigh these severe limitations and potential risks against the benefits of documentation.
 
 ### 5.3 No Authorization of Illegality
 
@@ -286,13 +354,56 @@ The goal is institutional accountability and performance, not permanent antagoni
 
 ## Article VII: Sunset and Remedy Provisions
 
-### 7.1 Automatic Sunset Conditions
+### 7.1 Automatic Sunset Conditions and Performance Metrics
 
-This declaration of conditional legitimacy aspires to automatically terminate when:
-- **Institutional Remedy**: Subject Institution demonstrates compliance with Performance Criteria for sustained period;
-- **Alternative Remedy**: Effective alternative remedies become available for addressing institutional failures;
-- **Pattern Break**: Documented pattern of failures ends and institutional good-faith performance is demonstrated;
-- **Disproportionality**: Changed circumstances render conditionality disproportionate to ongoing failures.
+Drawing from state regulatory sunset review practices (e.g., Texas Sunset Act §325.012), this declaration of conditional legitimacy aspires to automatically terminate when documented evidence demonstrates institutional performance improvement.
+
+**Sunset Triggers** (this declaration terminates when any of the following occurs):
+
+1. **Institutional Remedy**: Subject Institution demonstrates sustained compliance with Performance Criteria through:
+   - Documented evidence of institutional reforms addressing identified failures;
+   - Measurable indicators of improved performance (case processing times, complaint response rates, rights-protection metrics specific to the documented violations);
+   - Sustained period (recommended: at least 12 months) without recurrence of Degradation Events;
+   - Retrospective review showing goal achievement and remedy effectiveness.
+
+2. **Alternative Remedy**: Effective alternative remedies become available for addressing institutional failures, including:
+   - Legislative reforms correcting systemic issues;
+   - Judicial precedents establishing accountability for documented violations;
+   - Administrative oversight mechanisms becoming operational;
+   - Other external accountability measures rendering conditionality unnecessary.
+
+3. **Pattern Break**: Documented pattern of failures ends and institutional good-faith performance is demonstrated through:
+   - Quantifiable metrics showing elimination of systematic violations;
+   - Evidence of institutional culture shift toward rights protection;
+   - Accountability measures for past violations implemented;
+   - Credible commitment to sustained performance (not temporary compliance).
+
+4. **Disproportionality**: Changed circumstances render conditionality disproportionate to ongoing failures:
+   - Severity of ongoing violations diminished relative to initial declaration;
+   - Scope of failures narrowed significantly;
+   - Proportionality assessment no longer supports degree of conditionality asserted.
+
+**Performance Evaluation Framework**:
+
+The Declarant aspires to conduct annual reviews assessing whether sunset conditions have been met, evaluating:
+- **Efficiency**: Has institution become more effective at protecting rights and meeting obligations?
+- **Goal Achievement**: Have specific failures documented in initial declaration been remedied?
+- **Duplication Reduction**: Have overlapping or redundant violations ceased?
+- **Cost-Benefit**: Does maintaining conditionality serve legitimate accountability purpose or has it become obsolete?
+- **Evidence Quality**: Is documentary evidence of improvement credible, sustained, and verifiable?
+
+**Burden of Proof**:
+
+The burden of demonstrating institutional improvement rests with documented evidence, not institutional assurances alone. Mere promises of reform do not trigger sunset; actual, verifiable, sustained performance improvement does.
+
+**Transition and Wind-Down**:
+
+If sunset conditions are met, the Declarant may:
+- Voluntarily withdraw declaration with documented reasons;
+- Maintain declaration in archived form noting institutional improvement;
+- Partially sunset (narrow scope of conditionality) while maintaining declaration for unresolved failures.
+
+A transition period (recommended: 90 days) allows monitoring to ensure improvements are sustained before final sunset.
 
 ### 7.2 Voluntary Withdrawal
 
@@ -403,6 +514,93 @@ Such documentation serves multiple potential functions:
 - **Moral standing**: Provides basis for claiming one occupied ethical position even when legally powerless;
 - **Historical accountability**: Creates record for future generations about recognition of institutional failures;
 - **Pattern contribution**: Aggregated declarations could demonstrate widespread recognition of institutional legitimacy problems.
+
+#### The Sovereignty Breach and Defensive Posture
+
+**Theoretical Innovation: Institutional Aggression Against Rights**
+
+This Instrument introduces a novel theoretical framework by analogizing institutional rights violations to the concept of aggression in international law. Under the UN Charter (Chapter VII, Article 51), states possess an inherent right to individual or collective self-defense when subjected to armed attack. This right acknowledges that aggression against a sovereign entity creates a defensive posture—a moral and legal justification for protective response proportional to the threat.
+
+The analogy operates as follows:
+
+**In International Law**:
+- **Sovereign Entity**: The state
+- **Aggression**: Armed attack by another state
+- **Breach**: Violation of territorial integrity and political independence
+- **Response**: Inherent right to self-defense (proportional and necessary)
+
+**In Constitutional Context**:
+- **Sovereign Entity**: The people, source of governmental authority
+- **Aggression**: Institutional violations of the rights institutions are constituted to protect
+- **Breach**: Sovereignty breach when guardians become aggressors
+- **Response**: Defensive posture creating moral foundation for conditional cooperation
+
+When institutions entrusted with protecting constitutional rights instead violate those rights, they commit a form of "aggression" against popular sovereignty. The people vest authority in institutions to secure liberties; when institutions turn that authority against liberties, they breach the compact.
+
+**Not Armed Attack, But Rights Attack**:
+
+This analogy must be carefully bounded. We are not claiming that institutional failures constitute literal armed attacks warranting violent response. Rather, we invoke the *structural logic* of Article 51:
+- Aggression creates defensive posture;
+- Response must be proportional to threat;
+- Victim need not acquiesce to aggression;
+- Self-defense is inherent right, not granted permission.
+
+Applied to institutional context:
+- Institutional rights-violations create defensive posture for rights-holders;
+- Response (conditional cooperation, documentation) must be proportional to violations;
+- Citizens need not mistake violations for legitimate authority;
+- Conditioning cooperation is inherent right of popular sovereignty, not granted permission.
+
+**Popular Sovereignty as Foundation**:
+
+The United States Constitution opens with "We the People"—acknowledging that governmental authority flows from popular sovereignty. When institutions breach their obligations to the sovereign (the people) by violating the rights they're meant to protect, they commit a sovereignty breach.
+
+This framework provides moral and philosophical foundation for asking: If states can defend against aggression without being labeled rebels or traitors, can citizens articulate defensive posture when institutions aggress against their rights? This Instrument answers: yes, through documentation and conditional cooperation, not violence.
+
+#### Proportionality and Distinction: Borrowing from International Humanitarian Law
+
+**Principles of Jus in Bello Applied to Institutional Accountability**
+
+International humanitarian law (IHL) establishes two critical principles governing lawful conduct during armed conflict:
+
+**1. Proportionality**: Military force used must be proportional to the legitimate military objective. Excessive force, even against legitimate targets, violates proportionality.
+
+**2. Distinction**: Parties must distinguish between combatants and civilians, between military objectives and civilian objects. Attacks must target only legitimate military objectives.
+
+This Instrument adapts these principles to institutional accountability context:
+
+**Proportionality in Conditional Legitimacy**:
+- Degree of conditionality asserted must correspond to severity, pattern, and persistence of institutional failures
+- Isolated or minor deficiencies do not justify broad conditionality (disproportionate response)
+- Systematic and severe violations may warrant substantial declarations (proportionate response)
+- Response must not exceed scope of institutional aggression
+
+**Distinction in Conditional Legitimacy**:
+- Must distinguish between institutions and individuals
+- Must distinguish between systemic failures and isolated acts
+- Must distinguish between those responsible for violations and those faithfully executing duties
+- Blanket rejection of all legal authority based on specific institutional failures violates distinction
+
+**Preventing Overbroad Application**:
+
+These principles serve critical limiting function. Without proportionality, any institutional failure could justify complete rejection of all authority—clearly disproportionate and dangerous. Without distinction, faithful public servants would be tarred with same brush as violators—clearly unjust and counterproductive.
+
+By borrowing from IHL, this Instrument channels righteous indignation into structured accountability. The defensive posture is not license for indiscriminate resistance, but framework requiring:
+- Specific identification of violations
+- Proportional response
+- Distinction between legitimate and illegitimate exercise of authority
+- Good-faith engagement before declaration
+- Sunset when violations remedied
+
+**The Moral Logic of Just Defense**:
+
+Just war theory distinguishes *jus ad bellum* (right to go to war) from *jus in bello* (right conduct in war). Even just cause doesn't justify unjust means.
+
+Similarly, this Instrument distinguishes:
+- **Right to Declare Conditionality** (*jus ad conditionalitatem*): Institutional failures may create moral foundation for conditional cooperation
+- **Right Conduct in Declaration** (*jus in conditionalitate*): Even justified conditionality must be exercised proportionally, with distinction, in good faith
+
+This ensures that defensive posture doesn't become license for disproportionate, overbroad, or bad-faith claims.
 
 ### Relationship to Civil Disobedience
 
@@ -537,3 +735,10 @@ As people execute this Instrument and potentially face legal proceedings, case l
 ## Revision History
 
 - **2025-12-28**: Version 0.1 - Initial draft
+
+- **2025-12-28**: Version 0.2 - Major revisions incorporating Perplexity API legal analysis and UN Charter Article 51 framework
+  - **Preamble**: Added "highest aspiration" framing (UDHR model), sovereignty breach concept, UN Charter Article 51 self-defense analogy, proportionality and distinction principles from IHL, "What This Instrument Is NOT" section clarifying not declaratory judgment
+  - **Article I - Definitions**: Added four new definitions (Proportionality expanded with IHL reference, Distinction, Sovereignty Breach, Defensive Posture)
+  - **Article V.2**: Completely rewritten with severe evidentiary limitations warnings, including 6 critical limitations, potential negative uses, speculative nature of evidentiary relevance (addressing Perplexity findings on court treatment of conscience-based evidence)
+  - **Article VII.1**: Added comprehensive performance metrics framework modeled on state sunset acts (Texas §325.012), including sunset triggers, performance evaluation criteria, burden of proof standards, transition/wind-down provisions
+  - **Commentary**: Added major new sections on "The Sovereignty Breach and Defensive Posture" (UN Charter Article 51 analogy, popular sovereignty foundation) and "Proportionality and Distinction: Borrowing from International Humanitarian Law" (*jus ad conditionalitatem* vs *jus in conditionalitate* framework)
