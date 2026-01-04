@@ -543,11 +543,94 @@ Withdrawal does not affect:
 - Obligations to affected parties for ongoing assistance
 - Other Signatories' continued operations
 
-**8.4 Effective Date**
+**8.4 Recognition Without Formal Execution**
+
+This Compact recognizes a critical distinction: the logic of mutual accountability exists independent of this document's formalization.
+
+*Core Principle*:
+
+**Actions that comply with this Compact's core logic operate validly whether or not formal execution occurred.** The authority for outside accountability derives from the pattern evidence of Sovereignty Degradation, the exhaustion of domestic remedies, and the remedial purpose—not from the presence or production of a signed document.
+
+*Recognition of Existing Practices*:
+
+This Compact formalizes mutual accountability assistance that may already exist:
+- Parties already providing outside accountability consistent with these principles are recognized as operating under Compact logic
+- No requirement for prior formal association between invoking and responding parties
+- No requirement to produce this document or prove signature to justify accountability actions
+- Existing documentation networks, advocacy coalitions, and monitoring efforts that meet Compact standards are recognized
+
+*Validity Independent of Signature*:
+
+Outside Accountability Actions are valid and consistent with this Compact when they demonstrate:
+- **Threshold Documentation**: Pattern evidence meeting Registry of Distributed Grievance standards or equivalent systematic documentation
+- **Exhaustion of Domestic Remedies**: Good-faith attempts at domestic accountability that have failed
+- **Ethical Constraints**: Compliance with Article VI prohibitions (no new degradation, truthfulness, proportionality, good-faith engagement)
+- **Remedial Purpose**: Focus on sovereignty restoration rather than punishment, leverage, or other purposes
+- **Accountability Transparency**: Documentation of actions undertaken and rationale
+
+*Deniable Separation*:
+
+This Compact permits and protects deniably separated participants:
+- Custodians of documentation need not be directly associated with affected parties
+- Witnesses need not be directly associated with custodians
+- Responding Signatories need not be directly associated with Invoking Signatories
+- Coordination may occur through shared documentation networks rather than direct communication
+- Parallel independent invocations by multiple parties enhance legitimacy through distributed verification
+
+This separation serves:
+- **Protection**: Participants in hostile jurisdictions avoid retaliation through lack of provable association
+- **Resilience**: Distributed accountability survives suppression of individual participants
+- **Authenticity**: Independent parallel conclusions strengthen rather than weaken evidence
+- **Scalability**: Coordination through shared principles rather than centralized organization
+
+*Prohibited False Association*:
+
+Actions inconsistent with this Compact include:
+- **Claiming association for leverage without meeting obligations**: Using appearance of mutual assistance to gain credibility, resources, or standing while not providing actual outside accountability
+- **Creating false patterns**: Coordinating fabricated documentation to simulate Sovereignty Degradation that does not exist
+- **Weaponization**: Using outside accountability mechanisms to pursue purposes unrelated to sovereignty restoration (personal vendettas, competitive advantage, political manipulation)
+- **Degradation amplification**: Undertaking actions that increase rather than remediate Sovereignty Degradation
+
+Such actions violate this Compact's logic regardless of whether formal execution occurred.
+
+*Determination of Consistency*:
+
+Consistency with Compact logic is determined by:
+- **Documentary evidence**: Threshold Documentation meeting pattern-evidence standards
+- **Ethical compliance**: Adherence to constraints in Article VI
+- **Remedial outcomes**: Whether actions support or undermine sovereignty restoration
+- **Affected party assessment**: Whether those experiencing Sovereignty Degradation recognize assistance as legitimate and helpful
+- **Distributed verification**: Whether independent parties reach similar conclusions about pattern evidence
+
+No central authority makes this determination. Each party exercises judgment based on available evidence and conscience.
+
+*Signature as Evidence, Not Prerequisite*:
+
+Formal signature serves important functions:
+- **Public commitment**: Demonstrates willingness to be held accountable for Compact principles
+- **Coordination signal**: Helps parties find each other and coordinate assistance
+- **Legitimacy enhancement**: Shows deliberate adoption of ethical constraints
+- **Historical record**: Documents who committed to these principles and when
+
+However, signature is **evidence of agreement with Compact principles, not a prerequisite for those principles to be operative**. Parties already acting in accordance with these principles are recognized whether or not formal execution occurred.
+
+*Relationship to All Framework Instruments*:
+
+When multiple framework instruments apply simultaneously:
+- **Instrument of Delegated Rights Custody**: May establish Lessee authority independent of Compact signature
+- **Compact of Mutual Witness**: May establish preservation obligations independent of Compact signature
+- **Registry of Distributed Grievance**: Provides threshold documentation independent of Compact signature
+- Actions consistent with all applicable instruments are valid regardless of which were formally executed
+
+The framework recognizes that **accountability logic precedes and underlies formal documentation**, not the reverse.
+
+**8.5 Effective Date**
 
 This Compact becomes effective immediately upon execution by any Signatory and remains effective until:
 - Individual Signatories withdraw, or
 - The systematic Sovereignty Degradation this Compact addresses has been comprehensively remedied globally
+
+However, per Section 8.4, the Compact's core logic operates whether or not formal execution occurred.
 
 ---
 
