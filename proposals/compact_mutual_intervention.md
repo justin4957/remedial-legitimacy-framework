@@ -37,7 +37,7 @@ This Compact creates a framework for such outside accountability: mutual obligat
 This instrument creates:
 
 1. **Mutual Assistance Obligations**: Signatories agree to provide outside accountability support when sovereignty degradation thresholds are met and documented
-2. **Triggering Mechanisms**: Integration with Registry of Distributed Grievance and other pattern-documentation protocols to identify when thresholds are reached
+2. **Triggering Mechanisms**: Integration with standardized pattern-documentation protocols to identify when thresholds are reached
 3. **Outside Accountability Actions**: Specific forms of monitoring, advocacy, documentation, and pressure that outside parties can provide
 4. **Distributed Architecture**: No central authority; any signatory can invoke assistance from any other
 5. **Ethical Constraints**: Limitations preventing weaponization, requiring good-faith domestic engagement first, and establishing sunset mechanisms
@@ -68,7 +68,7 @@ This Compact rests on several premises:
 - Performance failures so systematic as to constitute functional abandonment of institutional responsibilities
 
 **1.3 "Threshold Documentation"** shall mean aggregated evidence sufficient to demonstrate that Sovereignty Degradation has reached levels justifying invocation of mutual assistance obligations. Such documentation includes:
-- Registry of Distributed Grievance entries showing patterns of institutional failure
+- Standardized documentation entries showing patterns of institutional failure
 - Statistical evidence demonstrating disparities unexplainable except by institutional failure
 - Multiple independent witness accounts of systematic institutional misconduct
 - Adjudicated findings of institutional failures
@@ -125,7 +125,7 @@ Responding Signatories may provide assistance through:
 
 *Monitoring and Documentation*:
 - Independent observation of institutional performance
-- Verification of Registry of Distributed Grievance entries
+- Verification of documented institutional failures
 - Statistical analysis of pattern evidence
 - Preservation of documentation at risk of destruction
 - Creation of shadow archives resistant to institutional suppression
@@ -197,10 +197,10 @@ Mutual assistance obligations activate when Threshold Documentation demonstrates
 - Institutional responses (or lack thereof) demonstrating systematic rather than isolated nature
 - Expert analysis or official reports acknowledging patterns
 
-*Integration with Registry of Distributed Grievance*:
-- Registry entries following standardized format (Registry of Distributed Grievance Article II schema)
-- Aggregated entries demonstrating institutional patterns (Registry Article V analysis)
-- Verification levels indicating evidentiary quality (Registry Article IV.2)
+*Standardized Documentation Integration*:
+- Entries following standardized format for pattern documentation
+- Aggregated entries demonstrating institutional patterns through systematic analysis
+- Verification levels indicating evidentiary quality
 - Pattern categories matching Sovereignty Degradation definitions (Article I.2 of this Compact)
 
 **3.2 Exhaustion of Domestic Remedies**
@@ -256,7 +256,7 @@ Threshold calibration is achieved through:
 - Integration with established evidentiary standards (pattern-and-practice, statistical discrimination analysis)
 - Requirements for multiple independent sources
 - Emphasis on systematic institutional responses (or lack thereof) rather than isolated incidents
-- Verification through Registry of Distributed Grievance standards
+- Verification through standardized documentation protocols
 
 ---
 
@@ -267,7 +267,7 @@ Threshold calibration is achieved through:
 Invoking Signatories aspire to document:
 
 *Threshold Evidence*:
-- Registry of Distributed Grievance entries (with entry IDs, verification levels, and pattern analysis)
+- Standardized documentation entries (with identifiers, verification levels, and pattern analysis)
 - Statistical evidence of institutional failures
 - Independent witness accounts and expert reports
 - Official documentation acknowledging failures (where available)
@@ -471,7 +471,7 @@ Mutual assistance obligations sunset when:
 - Affected parties report restoration of effective accountability
 
 *Evidence of Restoration*:
-- Decline in Registry of Distributed Grievance entries for Affected Jurisdiction
+- Decline in documented institutional failure entries for Affected Jurisdiction
 - Improvement in institutional performance metrics
 - Resolution of individual cases previously unresolved
 - Institutional reforms addressing systematic failures
@@ -562,7 +562,7 @@ This Compact formalizes mutual accountability assistance that may already exist:
 *Validity Independent of Signature*:
 
 Outside Accountability Actions are valid and consistent with this Compact when they demonstrate:
-- **Threshold Documentation**: Pattern evidence meeting Registry of Distributed Grievance standards or equivalent systematic documentation
+- **Threshold Documentation**: Pattern evidence meeting standardized documentation protocols or equivalent systematic documentation
 - **Exhaustion of Domestic Remedies**: Good-faith attempts at domestic accountability that have failed
 - **Ethical Constraints**: Compliance with Article VI prohibitions (no new degradation, truthfulness, proportionality, good-faith engagement)
 - **Remedial Purpose**: Focus on sovereignty restoration rather than punishment, leverage, or other purposes
@@ -619,7 +619,7 @@ However, signature is **evidence of agreement with Compact principles, not a pre
 When multiple framework instruments apply simultaneously:
 - **Instrument of Delegated Rights Custody**: May establish Lessee authority independent of Compact signature
 - **Compact of Mutual Witness**: May establish preservation obligations independent of Compact signature
-- **Registry of Distributed Grievance**: Provides threshold documentation independent of Compact signature
+- **Standardized Documentation Protocols**: Provide threshold documentation independent of Compact signature
 - Actions consistent with all applicable instruments are valid regardless of which were formally executed
 
 The framework recognizes that **accountability logic precedes and underlies formal documentation**, not the reverse.
@@ -666,16 +666,16 @@ When all domestic mechanisms fail, outside accountability provides failsafe:
 
 This Compact formalizes outside accountability obligations that otherwise operate ad hoc.
 
-**Integration with Registry of Distributed Grievance**
+**Standardized Documentation Protocols**
 
-The Registry provides essential infrastructure for this Compact:
-- **Standardized Documentation**: Registry format ensures pattern evidence meets evidentiary standards
-- **Verification Levels**: Registry Article IV.2 standards provide threshold documentation quality assurance
-- **Pattern Analysis**: Registry Article V aggregation demonstrates systematic rather than isolated failures
-- **Distributed Preservation**: Registry architecture ensures documentation survives institutional suppression
-- **Threshold Calibration**: Registry entries provide quantifiable metrics for invocation thresholds
+Standardized documentation provides essential infrastructure for this Compact:
+- **Common Format**: Standardized formats ensure pattern evidence meets evidentiary standards
+- **Verification Levels**: Quality assurance standards provide threshold documentation verification
+- **Pattern Analysis**: Systematic aggregation demonstrates patterns rather than isolated failures
+- **Distributed Preservation**: Distributed architecture ensures documentation survives institutional suppression
+- **Threshold Calibration**: Documented entries provide quantifiable metrics for invocation thresholds
 
-Without Registry integration, Threshold Documentation would lack standardization and verification.
+Standardization enables pattern recognition, verification across independent sources, and threshold determination.
 
 **Distributed Architecture and Scalability**
 
@@ -858,7 +858,7 @@ What additional safeguards might prevent this Compact from being weaponized for 
 
 ## Revision History
 
-- **2026-01-04**: Initial draft, integrating NATO Article 5 mutual defense principles with sovereignty degradation thresholds, Registry of Distributed Grievance pattern documentation, and outside accountability mechanisms
+- **2026-01-04**: Initial draft, integrating NATO Article 5 mutual defense principles with sovereignty degradation thresholds, standardized pattern documentation protocols, and outside accountability mechanisms
 
 ---
 
