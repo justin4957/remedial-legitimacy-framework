@@ -19,7 +19,7 @@ The Remedial Legitimacy Framework develops speculative legal instruments that:
 
 This is a theoretical and documentary project exploring how legal instruments might acknowledge and respond to the gap between constitutional promises and operational reality.
 
-**Current Collection**: 2 ratified instruments, 22 proposed instruments across 6 categories
+**Current Collection**: 3 ratified instruments, 22 proposed instruments across 6 categories
 
 ### Featured Instruments
 
@@ -30,6 +30,10 @@ The foundational document of the framework. Establishes a mechanism for temporar
 **[Compact of Mutual Witness](./instruments/compact_of_mutual_witness.md)** (Category B)
 
 Charter for distributed accountability and pattern documentation. Creates reciprocal obligations for evidence preservation, testimonial support, and pattern correlation across networks of any size. Key innovations: independent invocation authority (action without consensus), reputational accountability (known documentation creates moral custody), and distributed exclusion (scales infinitely without formal governance).
+
+**[Compact of Mutual Intervention](./instruments/compact_mutual_intervention.md)** (Category B)
+
+Charter for outside accountability when sovereignty degrades. Extends NATO Article 5 collective defense logic to institutional failures: systematic sovereignty degradation affecting any citizens is a threat to all citizens' sovereignty. Establishes mutual assistance obligations for monitoring, documentation, advocacy, and pressure when domestic accountability mechanisms fail. Key innovations: collective defense principle for sovereignty, distributed invocation authority, threshold documentation integration, exhaustion of remedies requirement, and recognition of actions independent of formal execution.
 
 [View all instruments →](./instruments/)
 

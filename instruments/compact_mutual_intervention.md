@@ -2,9 +2,9 @@
 **A Charter for Outside Accountability When Sovereignty Degrades**
 
 **Category**: B. Distributed Accountability Instruments
-**Status**: DRAFT
-**Date**: 2026-01-04
-**Version**: 0.1
+**Status**: RATIFIED
+**Date**: 2026-01-14
+**Version**: 1.0
 
 ---
 

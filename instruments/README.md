@@ -51,6 +51,32 @@ This directory contains the completed and ratified instruments of the Remedial L
 
 ---
 
+### 3. Compact of Mutual Intervention
+
+**Category**: B. Distributed Accountability Instruments
+**Status**: RATIFIED
+**Format**: Markdown (comprehensive charter document)
+**Version**: 1.0
+
+**Files**:
+- [compact_mutual_intervention.md](./compact_mutual_intervention.md) - Complete charter with articles, commentary, and legal analysis
+
+**Summary**: Charter for outside accountability when sovereignty degrades. Extends NATO Article 5 collective defense logic to institutional failures: systematic sovereignty degradation affecting any citizens is considered a threat to all citizens' sovereignty. Creates mutual assistance obligations among signatories to provide monitoring, documentation, advocacy, and pressure when domestic accountability mechanisms fail comprehensively.
+
+**Key Innovations**:
+- Collective defense principle applied to sovereignty degradation (institutional failures affecting some threaten all)
+- Outside accountability as failsafe when domestic mechanisms fail comprehensively
+- Distributed invocation authority (any signatory may invoke assistance without consensus)
+- Threshold documentation integration with standardized pattern evidence protocols
+- Exhaustion of domestic remedies requirement ensuring good-faith engagement first
+- Ethical constraints preventing weaponization (no new degradation, truthfulness, proportionality)
+- Sunset mechanisms upon restoration of domestic accountability
+- Recognition without formal execution (Article VIII.4: actions valid based on logic compliance, not signature)
+- No coercive enforcement power (documentation, advocacy, and moral pressure only)
+- Aspirational mutual assistance obligations proportionate to capacity
+
+---
+
 ## Usage
 
 Each instrument includes:
