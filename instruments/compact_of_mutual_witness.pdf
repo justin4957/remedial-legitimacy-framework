@@ -1,0 +1,113 @@
+# Compact of Mutual Witness
+**A Charter for Distributed Accountability and Pattern Documentation**
+
+**Category**: B. Distributed Accountability Instruments
+**Status**: DRAFT (Governance at Scale Revision)
+**Date**: 2025-12-28
+**Version**: 0.4
+
+---
+
+## Preamble
+
+WHEREAS, the efficacy of individual accountability efforts is often undermined by isolation, selective memory, and institutional tendencies to dismiss singular accounts as anomalous;
+
+WHEREAS, patterns of institutional degradation become visible only when individual instances are preserved, correlated, and presented in aggregate;
+
+WHEREAS, witnesses to Degradation Events may face intimidation, memory decay, or circumstantial inability to testify at critical junctures;
+
+WHEREAS, no existing mechanism provides for reciprocal, distributed preservation of evidence across affected parties with mutual accountability obligations;
+
+WHEREAS, the preservation of contemporaneous documentation serves both immediate remedial purposes and long-term historical accountability;
+
+WHEREAS, those who have witnessed institutional misconduct across time—whether recent or historical—possess knowledge vital to establishing patterns and holding institutions accountable;
+
+WHEREAS, this Charter aspires to create a network where documentation custody may be assumed by willing parties regardless of their temporal or organizational proximity to the original witness;
+
+NOW, THEREFORE, the undersigned parties hereby establish this Compact of Mutual Witness as a charter of principles and aspirations to guide the creation of a distributed network of documentation, [...]  
+
+---
+
+## Article I: Definitions
+
+**1.1 "Signatory"** shall mean any individual, collective, or organization that executes this Compact and aspires to fulfill the obligations herein according to their capacity and circumstances.
+
+**1.2 "Witnessed Event"** shall mean any instance of:
+- Rights degradation as defined in the Instrument of Delegated Rights Custody;
+- Institutional misconduct, including but not limited to violations of stated policy, discriminatory application of rules, or abuse of authority;
+- Retaliation against parties asserting rights or seeking accountability;
+- Systematic patterns of behavior inconsistent with stated institutional commitments;
+- Any other occurrence that bears upon the gap between law-as-written and law-as-practiced.
+
+**1.3 "Contemporaneous Documentation"** shall mean records created at or near the time of a Witnessed Event, including but not limited to:
+- Written accounts with date and time stamps;
+- Photographic or video evidence;
+- Audio recordings;
+- Correspondence and official communications;
+- Medical, legal, or administrative records;
+- Metadata and digital forensic evidence.
+
+**1.4 "Testimonial Support"** shall mean the act of providing witness testimony, affidavits, declarations, or other forms of evidentiary support on behalf of another Signatory regarding a Witnesse[...]  
+
+**1.5 "Preservation Network"** shall mean the distributed system of evidence custody created by this Compact, wherein each Signatory maintains records not only of their own Witnessed Events but al[...]  
+
+**1.6 "Triggering Request"** shall mean a formal invocation by one Signatory requesting that another Signatory provide Testimonial Support or produce Contemporaneous Documentation.
+
+**1.7 "Chain of Custody"** shall mean the chronological documentation showing the seizure, control, transfer, analysis, and disposition of evidence, maintaining integrity for evidentiary purposes.
+
+**1.8 "Retroactive Custodianship"** shall mean the assumption of documentation preservation responsibilities for Witnessed Events that occurred prior to a Signatory's execution of this Compact, en[...]  
+
+---
+
+## Article II: Aspirational Obligations
+
+This Charter sets forth principles to which Signatories aspire according to their capacity, resources, and circumstances. These are moral commitments rather than enforceable duties, recognizing th[...]  
+
+**2.1 Documentation Obligation**
+
+Each Signatory aspires to:
+- Create and maintain Contemporaneous Documentation of any Witnessed Event affecting themselves or other Signatories;
+- Preserve such documentation in secure, redundant formats with appropriate metadata;
+- Organize documentation to facilitate retrieval and correlation;
+- Update documentation logs as new events occur or additional context emerges;
+- Document their own custodial actions and decisions regarding evidence handling.
+
+**2.2 Preservation Standards**
+
+Each Signatory aspires to maintain custody according to recognized standards of evidence integrity:
+
+*Preservation Practices*:
+- Maintain custody of documentation for the duration of this Compact or until transferred pursuant to Article VII;
+- Employ reasonable security measures to prevent loss, destruction, or unauthorized access;
+- Create backup copies in geographically and jurisdictionally diverse locations where feasible;
+- Protect documentation from spoliation, whether through institutional pressure or technical failure.
+
+*Chain of Custody Documentation*:
+- Maintain chronological records of all access, transfer, analysis, and handling;
+- Log individual actions taken with respect to evidence, including dates, times, and purposes;
+- Preserve metadata and native file formats for digital evidence;
+- Create cryptographic hashes (SHA-256 or equivalent) to verify integrity;
+- Document any gaps, anomalies, or uncertainties in custody.
+
+*Forensic Standards*:
+- Follow established digital forensics practices where applicable (NIST guidelines or equivalent);
+- Use write-blocking or forensic imaging for sensitive digital evidence;
+- Preserve audit trails for all system access and modifications;
+- Maintain environmental controls appropriate to evidence type (secure storage, climate control, etc.).
+
+*Compliance with Regulations*:
+- Understand and comply with applicable data protection laws (GDPR, CCPA, and equivalents);
+- Implement privacy-protective measures consistent with accountability purposes;
+- Balance preservation duties with individual privacy rights;
+- Consult legal counsel regarding jurisdiction-specific obligations where resources permit.
+
+**2.3 Testimonial Obligation**
+
+Each Signatory aspires to:
+- Provide truthful Testimonial Support when requested by another Signatory, subject to limitations in Article IV;
+- Prepare written declarations or affidavits documenting Witnessed Events;
+- Appear for deposition, hearing, or trial testimony when reasonably possible and safe;
+- Resist institutional pressure to recant, minimize, or withhold testimony while respecting lawful obligations;
+- Coordinate with other Signatories to ensure testimonial continuity.
+
+[...] (full markdown content included)
