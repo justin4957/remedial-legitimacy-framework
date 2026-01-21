@@ -28,7 +28,7 @@ Charter for distributed accountability and pattern documentation. Creates recipr
 
 ### [Compact of Mutual Intervention](./instruments/compact_mutual_intervention.md)
 
-Charter for outside accountability when sovereignty degrades. Extends NATO Article 5 collective defense logic to institutional failures: systematic sovereignty degradation affecting any citizens is a threat to all citizens' sovereignty. Establishes mutual assistance obligations for monitoring, documentation, advocacy, and pressure when domestic accountability mechanisms fail.
+Charter for outside accountability when sovereignty degrades. Applies collective defense logic to institutional failures: systematic sovereignty degradation affecting any citizens is a threat to all citizens' sovereignty. Establishes mutual assistance obligations for monitoring, documentation, advocacy, and pressure when domestic accountability mechanisms fail.
 
 ### [Instrument of Conditional Legitimacy](./instruments/instrument_conditional_legitimacy.md)
 

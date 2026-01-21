@@ -20,7 +20,7 @@ Those experiencing sovereignty degradation face a fundamental asymmetry: they st
 
 ### The Collective Defense Principle
 
-NATO Article 5 establishes that "an armed attack against one or more [parties] shall be considered an attack against them all." This principle recognizes that threats to one member's security threaten all members, justifying collective response even when most members are not directly attacked.
+Mutual defense treaties recognize that threats to one member's security threaten all members, justifying collective response even when most members are not directly attacked. An attack on one is treated as an attack on all.
 
 This Compact extends that logic to sovereignty degradation: **systematic institutional failures affecting one group of citizens represent a threat to the sovereignty of all citizens**, because institutions that escape accountability in one context will expand that pattern to others, and because the degradation of popular sovereignty anywhere undermines its foundation everywhere.
 
@@ -640,7 +640,7 @@ However, per Section 8.4, the Compact's core logic operates whether or not forma
 
 **Extending Collective Defense to Sovereignty Degradation**
 
-NATO Article 5's innovation was recognizing that security threats to one member threaten all members, justifying collective response even when most members are not directly attacked. This Compact extends that principle to popular sovereignty: institutional failures affecting some citizens threaten the sovereignty of all citizens, because:
+The innovation of mutual defense frameworks is recognizing that security threats to one member threaten all members, justifying collective response even when most members are not directly attacked. This Compact extends that principle to popular sovereignty: institutional failures affecting some citizens threaten the sovereignty of all citizens, because:
 
 1. **Institutional Capture Spreads**: Institutions that escape accountability in one context tend to expand that pattern to others
 2. **Normative Erosion**: Tolerance of Sovereignty Degradation signals that such degradation is acceptable
@@ -858,7 +858,7 @@ What additional safeguards might prevent this Compact from being weaponized for 
 
 ## Revision History
 
-- **2026-01-04**: Initial draft, integrating NATO Article 5 mutual defense principles with sovereignty degradation thresholds, standardized pattern documentation protocols, and outside accountability mechanisms
+- **2026-01-04**: Initial draft, integrating collective defense principles with sovereignty degradation thresholds, standardized pattern documentation protocols, and outside accountability mechanisms
 
 ---
 
