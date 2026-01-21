@@ -34,4 +34,6 @@ Documentary instrument for articulating that compliance is conditional cooperati
 
 ## License
 
-This work is released into the public domain for theoretical exploration and documentation purposes.
+This work is licensed under the [Remedial Legitimacy Public License (RLPL) v1.0](./LICENSE.md)—a copyleft license that preserves attribution and share-alike rights while reserving hard copy rights to the original author.
+
+Free to read, copy, modify, and distribute for non-commercial purposes with attribution. Commercial use and official hard copy publication require permission.
