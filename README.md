@@ -34,6 +34,10 @@ Charter for outside accountability when sovereignty degrades. Applies collective
 
 Documentary instrument for articulating that compliance is conditional cooperation contingent on institutional performance, not unconditional consent. Establishes a framework for conditioning cooperation on institutional good faith when institutions responsible for protecting constitutional rights instead become agents of their degradation.
 
+### [Organizing Compact for Distributed Accountability Networks](./instruments/organizing_compact.md)
+
+Meta-instrument providing organizational substrate for formalizing networks operating under the other Framework instruments. Adapts governance structures from cooperative enterprise—dynamic contribution recognition, distributed decision-making, graduated participation—to the needs of accountability networks operating across jurisdictions.
+
 ## License
 
 This work is licensed under the [Remedial Legitimacy Public License (RLPL) v1.0](./LICENSE.md)—a copyleft license that preserves attribution and share-alike rights while reserving hard copy rights to the original author.
