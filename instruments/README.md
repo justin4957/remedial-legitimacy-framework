@@ -1,92 +1,25 @@
-# Ratified Instruments
+# Instruments
 
-This directory contains the completed and ratified instruments of the Remedial Legitimacy Framework.
-
-## Collection
-
-### 1. Instrument of Delegated Rights Custody and Free Association Lease
-
-**Category**: A. Gap-Bridging Instruments
-**Status**: RATIFIED
-**Format**: PDF + Analysis
+## 1. Instrument of Delegated Rights Custody and Free Association Lease
 
 **Files**:
-- [instrument_delegated_rights_custody.pdf](./instrument_delegated_rights_custody.pdf) - The complete instrument document
-- [instrument_delegated_rights_custody.md](./instrument_delegated_rights_custody.md) - Detailed analysis and commentary
+- [instrument_delegated_rights_custody.pdf](./instrument_delegated_rights_custody.pdf) - Complete instrument document
+- [instrument_delegated_rights_custody.md](./instrument_delegated_rights_custody.md) - Analysis and commentary
 
-**Summary**: Transfers operational custody of constitutional rights to willing third parties during periods of institutional non-performance, while preserving foundational ownership. Establishes mechanism for rights defense through delegated Custodial Authority that activates upon documented Degradation Events.
-
-**Key Innovations**:
-- Inversion of standing doctrine (violation activates authority rather than possession)
-- Operational vs. foundational ownership distinction
-- Self-executing activation independent of institutional recognition
-- Degradation-as-multiplier mechanism
-- Secondary Designee delegation capability
-- Aggregation principle across multiple rights-holders
+Transfers operational custody of constitutional rights to willing third parties during periods of institutional non-performance, while preserving foundational ownership. Establishes mechanism for rights defense through delegated Custodial Authority that activates upon documented Degradation Events.
 
 ---
 
-### 2. Compact of Mutual Witness
+## 2. Compact of Mutual Witness
 
-**Category**: B. Distributed Accountability Instruments
-**Status**: RATIFIED
-**Format**: Markdown (comprehensive charter document)
-**Version**: 0.4
+**File**: [compact_of_mutual_witness.md](./compact_of_mutual_witness.md)
 
-**Files**:
-- [compact_of_mutual_witness.md](./compact_of_mutual_witness.md) - Complete charter with articles, commentary, and legal analysis
-
-**Summary**: Charter for distributed accountability and pattern documentation. Creates reciprocal aspirational obligations for evidence preservation, testimonial support, and pattern correlation. Enables distributed networks to scale indefinitely while maintaining quality control through innovative governance mechanisms.
-
-**Key Innovations**:
-- Independent invocation authority (any Signatory may act on constitutional authority without consensus or permission)
-- Reputational accountability (known documentation possession creates moral custody; inaction becomes tacit complicity)
-- Distributed exclusion (bad actors excluded through reputational cascades rather than formal voting)
-- Retroactive documentation custodianship (enables multi-generational pattern documentation)
-- Network ascension through time (historical documentation "rises" into preservation network)
-- Aspirational charter tone (recognizes practical constraints while articulating principles to strive toward)
-- Resolves open participation + quality control + scalability trilemma
-- Legal compliance integration (Article IV.5, X.4: operates within law, acknowledges compelled disclosure)
-- Forensic preservation standards (Article II.2: NIST guidelines, chain of custody, SHA-256 hashing)
+Charter for distributed accountability and pattern documentation. Creates reciprocal aspirational obligations for evidence preservation, testimonial support, and pattern correlation. Enables distributed networks to scale indefinitely while maintaining quality control through innovative governance mechanisms.
 
 ---
 
-### 3. Compact of Mutual Intervention
+## 3. Compact of Mutual Intervention
 
-**Category**: B. Distributed Accountability Instruments
-**Status**: RATIFIED
-**Format**: Markdown (comprehensive charter document)
-**Version**: 1.0
+**File**: [compact_mutual_intervention.md](./compact_mutual_intervention.md)
 
-**Files**:
-- [compact_mutual_intervention.md](./compact_mutual_intervention.md) - Complete charter with articles, commentary, and legal analysis
-
-**Summary**: Charter for outside accountability when sovereignty degrades. Extends NATO Article 5 collective defense logic to institutional failures: systematic sovereignty degradation affecting any citizens is considered a threat to all citizens' sovereignty. Creates mutual assistance obligations among signatories to provide monitoring, documentation, advocacy, and pressure when domestic accountability mechanisms fail comprehensively.
-
-**Key Innovations**:
-- Collective defense principle applied to sovereignty degradation (institutional failures affecting some threaten all)
-- Outside accountability as failsafe when domestic mechanisms fail comprehensively
-- Distributed invocation authority (any signatory may invoke assistance without consensus)
-- Threshold documentation integration with standardized pattern evidence protocols
-- Exhaustion of domestic remedies requirement ensuring good-faith engagement first
-- Ethical constraints preventing weaponization (no new degradation, truthfulness, proportionality)
-- Sunset mechanisms upon restoration of domestic accountability
-- Recognition without formal execution (Article VIII.4: actions valid based on logic compliance, not signature)
-- No coercive enforcement power (documentation, advocacy, and moral pressure only)
-- Aspirational mutual assistance obligations proportionate to capacity
-
----
-
-## Usage
-
-Each instrument includes:
-1. The formal instrument document (PDF or markdown format)
-2. Detailed analysis and commentary
-3. Theoretical foundations
-4. Practical applications
-5. Relationship to other instruments
-6. Limitations and constraints
-
-## Contributing
-
-To propose additions to this collection, see [CONTRIBUTING.md](../CONTRIBUTING.md) for guidelines on drafting and submitting new instruments.
+Charter for outside accountability when sovereignty degrades. Extends NATO Article 5 collective defense logic to institutional failures: systematic sovereignty degradation affecting any citizens is considered a threat to all citizens' sovereignty. Creates mutual assistance obligations among signatories to provide monitoring, documentation, advocacy, and pressure when domestic accountability mechanisms fail comprehensively.
