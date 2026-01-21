@@ -62,6 +62,10 @@ The success of this structure depends entirely on the good faith and high-trust 
 
 **2.8 "Threshold Documentation"** has the meaning established in the Compact of Mutual Intervention.
 
+**2.9 "Network Assets"** means any assets, infrastructure, processes, documentation archives, communication systems, financial resources, or material held, administered, or operated by or on behalf of the Network, any Signatory in their Network capacity, or any Working Circle.
+
+**2.10 "Protective Segregation"** means the segregation, divestment, suspension, transfer, or liquidation of Network Assets undertaken to preserve legitimacy, prevent misattribution, or protect the Network from contamination, capture, or reputational harm.
+
 ---
 
 ## Article III: Signatories and Participation Structure
@@ -330,36 +334,132 @@ Such reporting serves accountability transparency and enables others to learn fr
 
 ---
 
-## Article X: Dissolution and Succession
+## Article X: Asset Segregation and Protective Liquidation
 
-**10.1 Events Causing Dissolution.** The Network dissolves upon:
-- Supermajority (75%) vote of Active Signatories
-- Reduction of Active Signatories below minimum viable operations
-- Achievement of purpose (comprehensive remedy of institutional failures addressed)
+**10.1 Right of Protective Segregation.** Any Signatory, Working Circle, or the Coordinating Council responsible for the administration, custody, or oversight of Network Assets may, at its discretion, undertake Protective Segregation where the responsible party reasonably determines that continued association, retention, or operation of such assets is inconsistent with:
 
-**10.2 Succession of Obligations.** Upon dissolution:
-- Documentation custody transfers to successor networks, archives, or affected parties
-- Ongoing invocation responses should be completed or transferred
-- Resources distributed to continuing accountability work or returned to contributors
-- Network records preserved for historical accountability
+- The principles of this Compact or the Remedial Legitimacy Framework
+- The ethical constraints of the constituent instruments
+- The accountability mission of the Network
+- The safety or legitimacy of affected parties, Signatories, or the Network itself
 
-**10.3 Continuity of Instruments.** Dissolution of the Network does not affect the underlying Framework instruments. Signatories retain their individual commitments under those instruments and may form new networks or operate independently.
+**10.2 Permitted Purposes.** Protective Segregation must be undertaken solely for one or more of the following purposes:
+
+(a) To prevent attribution, association, or implied endorsement between the Network and external activities, market actors, institutions, or processes not governed by or incompatible with the Framework instruments;
+
+(b) To insulate the Network from reputational, legal, operational, or legitimacy risk arising from external forces, third-party conduct, or adversarial capture;
+
+(c) To preemptively distance the Network from assets that have become or may become targets for seizure, litigation, or institutional pressure;
+
+(d) To sever association with processes, parties, or assets that have become contaminated through external association, regardless of the asset's intrinsic character;
+
+(e) To maintain coherence, integrity, and credibility across the Framework instruments and Network operations.
+
+**10.3 Prohibition on Capital Optimization Intent.** Protective Segregation shall not be undertaken for the primary purpose of capital appreciation, speculative gain, financial optimization, or profit extraction. Any proceeds resulting from such action shall be treated as incidental and subordinate to the protective and legitimacy-preserving purpose.
+
+This prohibition exists because accountability networks derive authority from documented institutional failures and moral logic, not from capital accumulation. Actions that could be characterized as profit-seeking undermine that authority.
+
+**10.4 Attribution and Distance Safeguard.** Protective Segregation shall not be construed as:
+
+(a) Acceptance of responsibility for the external activity, contamination, or threat from which separation is effected;
+
+(b) Ratification or validation of claims arising under any other instrument, legal proceeding, or external demand;
+
+(c) Admission that the segregated assets were improperly held or operated;
+
+(d) Continuity of governance, control, endorsement, or association over the segregated, divested, or liquidated assets after separation.
+
+Protective Segregation operates as a **legitimacy buffer**, enabling tiered distancing between the Network and activities, assets, or associations that threaten its accountability function—without creating inference about the underlying circumstances.
+
+**10.5 Disposition of Proceeds.** Proceeds, if any, resulting from Protective Segregation shall be applied in the following order:
+
+(a) Costs directly required to effect lawful separation, transfer, or termination;
+
+(b) Remediation or risk-mitigation costs incurred by the Network or affected Signatories;
+
+(c) Reserve or allocation for ongoing accountability work as otherwise provided under this Compact.
+
+No distribution to Signatories shall be required or expected solely by virtue of Protective Segregation. Proceeds serve the Network's accountability mission, not individual enrichment.
+
+**10.6 Non-Precedent and Limited Scope.** Exercise of Protective Segregation shall not:
+
+(a) Create an ongoing duty to segregate, divest, or liquidate similar assets in the future;
+
+(b) Establish precedent for capital management decisions outside the accountability framework;
+
+(c) Expand any party's authority beyond the assets, processes, or material within their defined responsibility;
+
+(d) Imply that assets not segregated are thereby endorsed, validated, or permanently associated.
+
+Each Protective Segregation decision stands on its own documented determination.
+
+**10.7 Good-Faith Standard and Documentation.** All Protective Segregation must be:
+
+(a) Undertaken in good faith, based on reasonable determination that the action is necessary to preserve legitimacy, coherence, safety, or non-attribution;
+
+(b) Documented with the basis for the determination, the assets affected, and the protective purpose served;
+
+(c) Reported to the Coordinating Council (or, if undertaken by the Council, to Active Signatories) within a reasonable period.
+
+Documentation serves institutional learning and accountability for the Network's own decisions, not external validation.
+
+**10.8 Relationship to Retaliation and Hostile Action.** Protective Segregation may be particularly appropriate where:
+
+- Assets have become targets for seizure, injunction, or litigation by hostile actors
+- Continued association creates legal exposure for Signatories in vulnerable jurisdictions
+- External parties have contaminated assets through unauthorized association or claims
+- Institutional pressure seeks to leverage Network assets against the Network's mission
+
+In such circumstances, preemptive Protective Segregation preserves Network capacity by preventing adversarial capture of assets that could be used against the Network or its Signatories.
 
 ---
 
-## Article XI: General Provisions
+## Article XI: Continuity and Independence
 
-**11.1 Governing Principles.** This Compact shall be interpreted according to:
+**11.1 Enduring Character.** This Compact establishes an organizational substrate that persists independent of the triggering conditions, activation events, or contextual circumstances that may invoke the other Framework instruments. The Network formed under this Compact:
+
+- Exists as ongoing coordination infrastructure, not merely as response mechanism
+- Continues whether or not sovereignty degradation, rights violations, or institutional failures are actively documented
+- Maintains its organizational character across periods of dormancy and activation
+- Provides standing capacity for accountability work whenever circumstances require
+
+**11.2 Independence from Triggering Context.** The Compact of Mutual Intervention activates upon documented sovereignty degradation. The Compact of Mutual Witness activates upon witnessed events requiring preservation. The Instrument of Delegated Rights Custody activates upon degradation events. This Organizing Compact requires no such trigger—it provides the substrate within which those instruments operate, before, during, and after their activation.
+
+The Network may therefore:
+
+- Form and operate in anticipation of future accountability needs
+- Continue during periods when no active invocations are pending
+- Maintain documentation infrastructure absent immediate preservation demands
+- Sustain relationships and capacity independent of crisis response
+
+**11.3 Relationship to Other Instruments.** This Compact neither requires nor precludes activation of other Framework instruments. Signatories to this Compact may or may not be parties to the other instruments. The Network may support accountability work under those instruments without the Network itself being contingent on their invocation.
+
+The organizational layer is distinct from the accountability layer: one provides structure, the other provides authority. Both may operate simultaneously; neither depends on the other.
+
+**11.4 Transformation and Succession.** Networks may transform over time—expanding, contracting, merging, splitting, or evolving in structure and focus. Such transformation does not terminate this Compact but adapts it to changed circumstances. Where a Network determines that fundamental restructuring serves the accountability mission:
+
+- Documentation custody continues through transformation
+- Signatory commitments transfer to successor structures as appropriate
+- Network records preserve institutional continuity
+- The underlying Framework instruments remain unaffected
+
+The Compact accommodates evolution; it does not require permanence in any particular form.
+
+---
+
+## Article XII: General Provisions
+
+**12.1 Governing Principles.** This Compact shall be interpreted according to:
 - The theoretical foundations of the Remedial Legitimacy Framework
 - The ethical constraints articulated in the constituent instruments
 - Plain meaning of terms
 - Good faith engagement among Signatories
 
-**11.2 Relationship to Law.** This Compact operates within applicable law. Nothing herein authorizes illegal action. Where legal frameworks conflict with accountability obligations, Signatories navigate those conflicts according to their conscience and circumstances, bearing responsibility for their choices.
+**12.2 Relationship to Law.** This Compact operates within applicable law. Nothing herein authorizes illegal action. Where legal frameworks conflict with accountability obligations, Signatories navigate those conflicts according to their conscience and circumstances, bearing responsibility for their choices.
 
-**11.3 Amendment.** This Compact may be amended by Supermajority (75%) of Active Signatories. Amendments should be documented with rationale and effective date.
+**12.3 Amendment.** This Compact may be amended by Supermajority (75%) of Active Signatories. Amendments should be documented with rationale and effective date.
 
-**11.4 Cultural Commitment.** The Signatories acknowledge that this Compact is founded on high trust, mutual accountability, and direct communication. While this clause creates no legally enforceable obligation, all Signatories commit to engaging with transparency, fairness, and constructive intent to uphold the spirit of distributed accountability.
+**12.4 Cultural Commitment.** The Signatories acknowledge that this Compact is founded on high trust, mutual accountability, and direct communication. While this clause creates no legally enforceable obligation, all Signatories commit to engaging with transparency, fairness, and constructive intent to uphold the spirit of distributed accountability.
 
 ---
 
@@ -402,7 +502,7 @@ The Remedial Legitimacy Framework emphasizes distributed architecture: no centra
 
 ### The Trust Foundation
 
-Commercial operating agreements ultimately rely on legal enforcement. Accountability networks operate in contexts where legal enforcement may be unavailable, compromised, or hostile. The Cultural Commitment in Section 11.4 acknowledges that this Compact's effectiveness depends on:
+Commercial operating agreements ultimately rely on legal enforcement. Accountability networks operate in contexts where legal enforcement may be unavailable, compromised, or hostile. The Cultural Commitment in Section 12.4 acknowledges that this Compact's effectiveness depends on:
 
 - Signatories who genuinely share accountability commitments
 - Good faith engagement even in disagreement
