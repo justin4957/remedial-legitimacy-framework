@@ -85,12 +85,13 @@ Upon expiration of this sunset period, Founding Signatories convert to Active Si
 
 **(c) Supporting Signatories:** Those who contribute resources without direct accountability work, as specified in Section 3.6.
 
-**3.3 Admission of New Signatories.** New Signatories may be admitted upon:
-- Execution of this Compact
-- Vouching by at least one existing Active Signatory, OR
-- Demonstrated Accountability Contribution consistent with Network principles
+**3.3 Admission of New Signatories.** Signatories join the Network through demonstrated alignment with its principles, not through application or approval. Participation follows from:
 
-No supermajority vote required. The Network grows through demonstrated alignment, not gatekeeping. However, the Coordinating Council may, upon documented evidence of bad faith or harm, exclude parties whose participation would compromise Network integrity.
+- Acting consistently with Framework instruments
+- Contributing to accountability work
+- Coordinating in good faith with existing Signatories
+
+Those who do the work belong to the Network by virtue of doing it. Formal execution of this Compact may clarify commitment but is not prerequisite for recognition. The Network excludes only upon documented evidence of bad faith or harm—exclusion addresses demonstrated dysfunction, not gatekeeping entry.
 
 **3.4 Accountability Contributions.** Each Signatory's contributions are recognized through the dynamic assessment process in Article IV. No specific contribution is required for initial participation; the Network values diverse capacities and circumstances.
 
@@ -120,26 +121,21 @@ No supermajority vote required. The Network grows through demonstrated alignment
 
 ## Article IV: Dynamic Recognition and Coordination
 
-**4.1 Contribution Recognition.** The Network maintains ongoing recognition of Signatory contributions. Unlike commercial equity, this recognition does not confer ownership—the Network owns nothing and is owned by no one. Recognition serves coordination: identifying who has capacity, expertise, and standing in particular domains.
+**4.1 Recognition Through Demonstrated Function.** The Network recognizes Signatory contributions through observed behavior and demonstrated function, not committee authorization. Recognition emerges from:
 
-**4.2 Annual Assessment Process.**
+- Documentation created, preserved, verified, or correlated
+- Invocations prepared, supported, or responded to
+- Infrastructure built or maintained
+- Capacity extended to others
+- Coordination facilitated
 
-(a) A Contribution Committee of three (3) Active Signatories shall be selected annually through a process determined by the Active Signatories (election, rotation, sortition, or consensus).
+A Signatory who does the work is recognized for doing it. No assessment body grants or withholds this recognition—it follows from the work itself, visible to others in the Network.
 
-(b) The Committee shall assess each Signatory's Accountability Contribution over the prior period, recognizing:
-- Documentation work (creation, preservation, verification, correlation)
-- Invocation support (preparation, response, coordination)
-- Infrastructure maintenance (technical, communications, security)
-- Capacity building (training, mentorship, methodology development)
-- Strategic contribution (analysis, planning, liaison)
+**4.2 Coordination Through Visibility.** Recognition serves coordination: identifying who has capacity, expertise, and standing in particular domains. This visibility emerges organically from Network activity rather than requiring formal evaluation. Signatories observe each other's contributions; patterns of reliability, expertise, and capacity become evident through practice.
 
-(c) Assessment serves recognition and coordination, not reward or punishment. The Network does not distribute profits; it distributes acknowledgment and responsibility.
+Where the Network benefits from periodic synthesis of this distributed knowledge—for resource allocation, coordination planning, or institutional memory—Active Signatories may designate parties to compile and communicate such synthesis. This is administrative function, not gatekeeping authority.
 
-(d) Any Signatory may request explanation of their assessment. The Committee shall provide rationale within fifteen (15) days.
-
-(e) *Dispute Process:* A Signatory disputing their assessment may, within thirty (30) days, request review by an ad-hoc panel of three (3) randomly selected Active Signatories. The panel's recommendation to the Committee shall be given substantial weight.
-
-**4.3 Resource Allocation.** Where the Network holds pooled resources (documentation infrastructure, communication systems, emergency funds), the Coordinating Council shall allocate resources to support accountability work. Allocation priorities:
+**4.3 Resource Allocation.** Where the Network holds pooled resources (documentation infrastructure, communication systems, emergency funds), allocation follows demonstrated need and function. Allocation priorities:
 - Active invocations and responses
 - Documentation preservation at risk
 - Capacity building in underserved areas
@@ -200,7 +196,6 @@ Active Signatories shall have one (1) vote per Signatory (individual or collecti
 - Exclusion of a Signatory
 
 (b) The following require Supermajority (66%) of Active Signatories:
-- Admission standards changes
 - Removal of Council members
 - Major resource allocation decisions
 - Formation of binding external partnerships
@@ -222,17 +217,9 @@ No permission required to act consistently with Framework principles. Coordinati
 
 **6.1 Purpose of Working Circles.** Working Circles are self-organizing groups focused on specific accountability functions: jurisdictional coverage, institutional patterns, technical infrastructure, methodology development, or other coherent domains.
 
-**6.2 Formation of Working Circles.**
+**6.2 Formation of Working Circles.** Working Circles form through demonstrated function, not authorization. Signatories who begin coordinating around a shared domain constitute a Circle by doing so. No proposal, approval, or registration required—though communication with the broader Network aids coordination and resource access.
 
-(a) Any Active Signatory may propose a Working Circle by describing:
-- The accountability function or domain
-- Initial participants
-- Relationship to existing Circles and Network priorities
-- Resources needed from the Network (if any)
-
-(b) Working Circles form upon proposal; no approval required. The Council tracks active Circles for coordination purposes.
-
-(c) Circles that duplicate existing functions or create conflicts should coordinate with existing Circles. The Council may facilitate such coordination but cannot prohibit Circle formation.
+Circles that duplicate existing functions or create conflicts should coordinate with existing Circles. Coordination emerges from shared purpose; the Council may facilitate but cannot prohibit Circle formation.
 
 **6.3 Autonomy and Accountability.** Working Circles are self-managing but accountable to Network principles.
 
