@@ -23,3 +23,11 @@ Charter for distributed accountability and pattern documentation. Creates recipr
 **File**: [compact_mutual_intervention.md](./compact_mutual_intervention.md)
 
 Charter for outside accountability when sovereignty degrades. Extends NATO Article 5 collective defense logic to institutional failures: systematic sovereignty degradation affecting any citizens is considered a threat to all citizens' sovereignty. Creates mutual assistance obligations among signatories to provide monitoring, documentation, advocacy, and pressure when domestic accountability mechanisms fail comprehensively.
+
+---
+
+## 4. Instrument of Conditional Legitimacy
+
+**File**: [instrument_conditional_legitimacy.md](./instrument_conditional_legitimacy.md)
+
+Documentary instrument for articulating that compliance is conditional cooperation contingent on institutional performance, not unconditional consent. Provides a framework for conditioning cooperation on institutional good faith when institutions responsible for protecting constitutional rights instead become agents of their degradation. Draws from international law principles of proportionality and distinction.

@@ -2,6 +2,8 @@
 
 A collection of constitutional counter-instruments: documents that use the precise language and structural conventions of legal authority to articulate theoretical positions about the gap between *law-as-written* and *law-as-practiced*.
 
+![](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dmY0ZjBoZ3gzYzJnbGgzbzNldTMzMHU2dDl1ano2c3VyMzloeDhvYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/40Fpxgn6Yq640/giphy.gif)
+
 ## Overview
 
 The Remedial Legitimacy Framework develops speculative legal instruments that:
@@ -25,6 +27,10 @@ Charter for distributed accountability and pattern documentation. Creates recipr
 ### [Compact of Mutual Intervention](./instruments/compact_mutual_intervention.md)
 
 Charter for outside accountability when sovereignty degrades. Extends NATO Article 5 collective defense logic to institutional failures: systematic sovereignty degradation affecting any citizens is a threat to all citizens' sovereignty. Establishes mutual assistance obligations for monitoring, documentation, advocacy, and pressure when domestic accountability mechanisms fail.
+
+### [Instrument of Conditional Legitimacy](./instruments/instrument_conditional_legitimacy.md)
+
+Documentary instrument for articulating that compliance is conditional cooperation contingent on institutional performance, not unconditional consent. Establishes a framework for conditioning cooperation on institutional good faith when institutions responsible for protecting constitutional rights instead become agents of their degradation.
 
 ## License
 
