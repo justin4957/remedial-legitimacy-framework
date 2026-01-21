@@ -2,6 +2,8 @@
 
 A collection of constitutional counter-instruments: documents that use the precise language and structural conventions of legal authority to articulate theoretical positions about the gap between *law-as-written* and *law-as-practiced*.
 
+![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWV5a2M0OGc4MDI2eW92dG9ibzljZWlyNTRyMjhlMjRuMmlocHl0bCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/f1qxl7eOulLCo/giphy.gif)
+
 ![](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dmY0ZjBoZ3gzYzJnbGgzbzNldTMzMHU2dDl1ano2c3VyMzloeDhvYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/40Fpxgn6Yq640/giphy.gif)
 
 ## Overview
