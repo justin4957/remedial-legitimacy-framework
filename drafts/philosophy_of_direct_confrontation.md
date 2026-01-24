@@ -102,7 +102,7 @@ But these complications don't eliminate the demand—they complicate its applica
 
 ## IV. Categories of Confrontational Activity
 
-Moving beyond witness/custodian, here's a taxonomy of **active, non-violent, philosophically grounded confrontation**:
+Moving beyond witness/custodian, here's a taxonomy of **active, philosophically grounded confrontation**:
 
 ### A. Interposition
 
@@ -158,6 +158,16 @@ Physical, institutional, or discursive presence that disrupts the normal operati
 - Making visible what is meant to be invisible
 
 **Philosophical ground**: Illegality often depends on controlled access—to spaces, to conversations, to decision-making. Presence that disrupts this control is not itself illegal; it's exercise of the right to appear in public space.
+
+### F. Sabotage and Direct Action
+
+Physical presence and activity which is designed to remove the capacity for further institutional harm. 
+
+- Removing the capacity of individuals and institutions to violate others rights and liberties. 
+
+- [Redacted]
+
+**Philosophical ground**: Persistent illegality combined with a legal monopoly on force and violence presents an obstacle to rectifying illegality, which in some cases, as the state has historically signified both in concept and in deed, needs to be rectified through direct confrontation, while assuming the consequences and full public accountability for such actions, including and especially through potential prosecution for preventing state illegality. 
 
 ---
 
