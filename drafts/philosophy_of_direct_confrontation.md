@@ -230,7 +230,7 @@ Revolution:
 The framework here:
 - Seeks to restore the existing order to its stated principles
 - Claims no sovereign authority, only the right of non-complicity and interposition
-- Rejects violence against persons, except in so far as violence against persons is the subject of direct confrontation with state or private illegality, and the prevention of such activity in accordance with a set of principles around self defense and the following conditions is required in order to not be complicit is such activity. 
+- Rejects violence against persons, except in so far as violence against persons is the subject of direct confrontation with state or private illegality, and the prevention of such activity in accordance with a set of principles around self defense and the following conditions is required in order to not be complicit is such activity,. 
 - Asserts fidelity to constitutional principles against institutional betrayal
 
 ### Versus Mere Protest
