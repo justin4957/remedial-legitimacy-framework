@@ -299,15 +299,15 @@ The state's prosecution does not establish the illegitimacy of confrontation; it
 
 **Confrontational Presence**: Exercise of the right to appear, speak, and question in spaces where silence or absence enables illegality.
 
+**Sabotage and Direct Action**: [REDACTED]
+
 ### Article IV: Constraints
 
 **Proportionality**: Confrontational activity must be proportionate to the illegality it addresses. Proportionality considers: severity of the illegality, availability of less confrontational responses, reversibility of both illegality and confrontation, and impact on uninvolved parties.
 
-**Accountability**: Confronters accept responsibility for their actions and do not evade consequence through concealment. Accountability does not require submission to punishment as validation, but it does require willingness to stand behind one's actions.
+**Accountability**: Confronters accept responsibility for their actions and do not rely on a capacity to evade consequence through concealment. Accountability does not require submission to punishment as validation, but it does require willingness to stand behind one's actions.
 
 **Third-party protection**: Confrontation should not impose significant costs on uninvolved parties. Where such costs are unavoidable, they must be minimized and cannot be disproportionate to the illegality addressed.
-
-**Non-violence**: Confrontation under this framework does not extend to violence against persons. Property interference may be permissible where proportionate and directly connected to the illegality, but harm to persons is excluded.
 
 **Truthfulness**: Confrontation must be grounded in accurate representation of the illegality confronted. Fabrication or exaggeration undermines legitimacy and violates the anti-tacitity principle that grounds confrontation.
 
