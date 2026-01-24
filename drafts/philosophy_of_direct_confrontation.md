@@ -269,6 +269,26 @@ The confronter does not claim authority over the state but refuses complicity wi
 
 ### Article III: Permissible Forms of Confrontation
 
+#### Governing Principles
+
+All confrontational activity under this framework must be grounded in:
+
+**Defense of the Social Contract**: Confrontation derives its legitimacy from defense of the social contract itself—the foundational agreement by which citizens cede certain powers to government in exchange for protection of rights and adherence to law. When the state breaches this contract through illegality, confrontation is not violation of the contract but its defense. The confronter acts as party to the contract asserting its terms against a breaching counterparty.
+
+**Prevention of Harm as Moral Obligation**: The philosophical principle that one who can prevent harm and fails to do so bears moral responsibility for that harm applies with particular force to state illegality. State harm is systematic, institutional, and ongoing; it will continue absent intervention. The obligation to prevent harm, where one has capacity to do so, grounds both the permission and the duty to confront. This is not mere preference but moral necessity: to witness preventable harm and decline to act is to participate in its continuation.
+
+**Articulation of Reasons Under Conditions of Illegitimate Prosecution**: Where the state prosecutes confrontational activity, the confronter has both the right and the obligation to articulate the reasons for confrontation directly and fully. This articulation serves multiple functions:
+
+- It transforms prosecution into a forum for exposing the underlying illegality
+- It creates a record that outlasts any particular proceeding
+- It denies the state the tacitity it requires—forcing it to defend its illegality openly
+- It demonstrates that the confronter acted from principle, not caprice
+- It invites others to evaluate the confronter's reasons against the state's response
+
+The state's prosecution does not establish the illegitimacy of confrontation; it reveals the state's commitment to defending illegality. The confronter's articulation of reasons—clear, direct, documented—becomes evidence in a larger proceeding: the historical judgment of whether institutions honored or betrayed their legitimacy conditions.
+
+#### Forms of Confrontation
+
 **Interposition**: Placing oneself or one's activity between illegality and its completion, by presence, procedural invocation, administrative non-compliance, or informational counter-action.
 
 **Counter-Documentation**: Creating, preserving, and publishing records that compete with official narratives and expose illegality.
