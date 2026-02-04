@@ -38,6 +38,12 @@ Documentary instrument for articulating that compliance is conditional cooperati
 
 Meta-instrument providing organizational substrate for formalizing networks operating under the other Framework instruments. Adapts governance structures from cooperative enterprise—dynamic contribution recognition, distributed decision-making, graduated participation—to the needs of accountability networks operating across jurisdictions.
 
+## Emerging Instruments (Drafts)
+
+### [The Individual Mutual Assurance Treaty (IMAT)](./drafts/individual_mutual_assurance_treaty.md)
+
+Framework convention on reciprocal civic obligation, collective accountability, and the defense of consent-based governance. Establishes a structured mechanism for individual citizens to collectively hold governments accountable when they systematically breach the civic compact--grounded in social contract theory, international human rights law, and the Vienna Convention framework. Key innovations: normative ratification by practice, graduated response framework with four escalation levels, and categorical distinction from sovereign citizen ideology through institutional process, collective action, and rule-of-law compliance.
+
 ## License
 
 This work is licensed under the [Remedial Legitimacy Public License (RLPL) v1.0](./LICENSE.md)—a copyleft license that preserves attribution and share-alike rights while reserving hard copy rights to the original author.

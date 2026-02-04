@@ -39,3 +39,13 @@ Documentary instrument for articulating that compliance is conditional cooperati
 **File**: [organizing_compact.md](./organizing_compact.md)
 
 Meta-instrument providing organizational substrate for formalizing networks operating under the other Framework instruments. Adapts governance structures from cooperative enterprise—dynamic contribution recognition, distributed decision-making, Working Circles, graduated participation rights—to accountability networks. Integrates with all other Framework instruments while preserving their independent operation.
+
+---
+
+## Emerging Instruments (Drafts)
+
+### 6. The Individual Mutual Assurance Treaty (IMAT)
+
+**File**: [individual_mutual_assurance_treaty.md](../drafts/individual_mutual_assurance_treaty.md)
+
+Framework convention on reciprocal civic obligation, collective accountability, and the defense of consent-based governance. Establishes a structured mechanism for individual citizens to collectively hold governments accountable when they systematically breach the civic compact. Grounded in social contract theory, international human rights law, and the Vienna Convention framework. Key innovations: normative ratification by practice, graduated four-level response framework, Council of the Accord governance structure, and categorical distinction from sovereign citizen ideology through institutional process and rule-of-law compliance.
