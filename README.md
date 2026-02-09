@@ -38,6 +38,12 @@ Documentary instrument for articulating that compliance is conditional cooperati
 
 Meta-instrument providing organizational substrate for formalizing networks operating under the other Framework instruments. Adapts governance structures from cooperative enterprise—dynamic contribution recognition, distributed decision-making, graduated participation—to the needs of accountability networks operating across jurisdictions.
 
+## Emerging Instruments (Drafts)
+
+### [Founding Charter of HAVOC](./drafts/havoc_founding_charter.md)
+
+Collective security treaty for the defense of hemispheric vibrancy against Decaying, Democratically Non-Functional Bureaucracies (DDNFBs). Establishes the Hemispheric Alliance for Vibrancy, Occasion & Celebration as a framework for collective defense of freedom, hope, joy, curiosity, and interesting things. Key innovations: the Party Protocol as primary instrument of Alliance power, the Reputational Consequences Doctrine, the Documentation Carnival, anti-bureaucratic governance structure with no permanent bureaucracy, and cultural vitality as strategic collective security interest.
+
 ## License
 
 This work is licensed under the [Remedial Legitimacy Public License (RLPL) v1.0](./LICENSE.md)—a copyleft license that preserves attribution and share-alike rights while reserving hard copy rights to the original author.
